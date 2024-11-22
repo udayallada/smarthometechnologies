@@ -1,0 +1,21 @@
+﻿
+.card-content {
+    padding: 3em 3em 2em;
+}
+    .card-content h3 {
+        font-size: 32px;
+        line-height: 50px;
+        letter-spacing: -1px;
+        font-weight:normal
+    }
+    .card-content p {
+        font-size: 14px;
+    }
+
+
+
+@media only screen and (max-width:768px) {
+    .card-content {
+        padding: 1em 2em 1em;
+    }
+}

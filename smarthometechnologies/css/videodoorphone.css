@@ -1,0 +1,48 @@
+﻿.card-inner h3 {
+    font-size: 32px;
+    line-height: 50px;
+    letter-spacing: -1px;
+    margin: 0 0 1%;
+    -webkit-transition: all .1s ease-in-out;
+    transition: all .1s ease-in-out;
+    font-weight:normal
+}
+
+.inner-text p {
+    margin: 1% 0 0;
+    -webkit-transition: all .1s ease-in-out;
+    transition: all .1s ease-in-out;
+    font-size:14px
+    
+}
+
+.inner-text {
+    margin: 1% 0;
+    padding: 3% 0 0;
+    position: relative;
+}
+
+   /* .inner-text:before {
+        content: '';
+        position: absolute;
+        display: block;
+        width: 60px;
+        height: 6px;
+        background: darkblue;
+        top: 0;
+        left: 0;
+    }*/
+
+.card-inner h4 {
+    font-size: 24px;
+    line-height: 29px;
+    margin: 0;
+    -webkit-transition: all .1s ease-in-out;
+    transition: all .1s ease-in-out;
+}
+
+
+
+    
+
+

@@ -1,0 +1,81 @@
+﻿
+
+.ht_style {
+    font-family: 'Cutive Mono', monospace;
+    background: whitesmoke /*#a9b7c0*/;
+    /*padding-bottom:100px*/
+}
+
+#home-page {
+    height: 70vh;
+    /*padding-bottom: 50px;*/
+    color: white;
+    background-image: linear-gradient(rgba(180,219,192,0), rgba(0,197,160,0)), url('../images/ht1.jpg');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+    #home-page h1 {
+        font-family: 'Monoton', cursive;
+    }
+
+    #home-page .row {
+        margin-left: 5%;
+    }
+
+    #home-page h1 {
+        animation-name: title-entrance;
+        animation-duration: 3s;
+        animation-timing-function: ease-out;
+        animation-iteration-count: 1;
+        animation-delay: 0s;
+    }
+
+@keyframes title-entrance {
+    0% {
+        transform: translateX(150%);
+        opacity: 0;
+    }
+
+    50% {
+        opacity: 1;
+    }
+
+    100% {
+        transform: translateX(0%);
+    }
+}
+
+#subtitle {
+    animation-name: subtitle-entrance;
+    animation-duration: 3s;
+    animation-timing-function: ease-out;
+    animation-iteration-count: 1;
+    animation-delay: 0s;
+}
+
+@keyframes subtitle-entrance {
+    0% {
+        transform: translateX(-30%);
+        opacity: 0;
+    }
+
+    50% {
+        opacity: 1;
+    }
+
+    100% {
+        transform: translateX(0%);
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .ht_titles {
+        font-size: 300%;
+    }
+
+    #home-page {
+        height: 80vh;
+    }
+}

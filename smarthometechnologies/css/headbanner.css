@@ -1,0 +1,129 @@
+﻿
+.cont-banner {
+    max-width: 960px;
+    margin: 0 auto;
+}
+
+.main-ban-head {
+    width: 100%;
+    height: 650px;
+    color: #fff;
+    text-align: center;
+    background-size: cover;
+    background-image: url('../images/smart-home.jpg');
+    /*background: linear-gradient(to left bottom, rgba(90, 74, 199, .8) 50vw, rgba(173, 96, 223, .8)45vw);*/
+}
+
+/*.title_h1 {
+    font-size:300px
+}*/
+
+    header .overlay {
+        background-color: rgba(47, 48, 48, 0.5);
+        width: 100%;
+        height: 100%;
+    }
+
+    header .container {
+        padding-top: 120px;
+    }
+
+        header .container .near-header {
+            display: block;
+            font-size: 16px;
+        }
+
+@media (max-width: 799px) {
+    header .container .near-header {
+        font-size: 12px;
+    }
+}
+
+header .container .near-header:before, header .container .near-header:after {
+    content: "";
+    display: inline-block;
+}
+
+header .container .pre-header {
+    margin-bottom: 30px;
+}
+
+    header .container .pre-header:before, header .container .pre-header:after {
+        width: 8px;
+        height: 8px;
+        border-radius: 50%;
+        background-color: whitesmoke;
+    }
+
+    header .container .pre-header:before {
+        margin-right: 15px;
+    }
+
+    header .container .pre-header:after {
+        margin-left: 15px;
+    }
+
+header .container h1 {
+    font-size: 55px;
+    /*text-transform: uppercase;*/
+    font-weight: 700;
+    margin-bottom: 30px;
+    color:black
+}
+
+@media (max-width: 799px) {
+    header .container h1 {
+        font-size: 30px;
+    }
+}
+
+header .container .post-header {
+    margin-bottom: 75px;
+}
+
+    header .container .post-header:before, header .container .post-header:after {
+        width: 10.416666%;
+        height: 4px;
+        border: 1px solid whitesmoke;
+        border-left: none;
+        border-right: none;
+        vertical-align: middle;
+    }
+
+    header .container .post-header:before {
+        margin-right: 2.08333%;
+    }
+
+    header .container .post-header:after {
+        margin-left: 2.08333%;
+    }
+
+header .container .banner-contact {
+    width: 250px;
+    height: 50px;
+    
+    border: 1px solid whitesmoke;
+    color: #fff;
+    background: transparent;
+    font-size: 18px;
+    text-transform: uppercase;
+    outline: none;
+    cursor: pointer;
+}
+
+@media (max-width: 799px) {
+    header .container .banner-contact {
+        font-size: 10px;
+    }
+}
+
+header .container .banner-contact:hover {
+    background-color: #fff;
+    color: #2f3030;
+    border:none;
+}
+
+
+
+
+

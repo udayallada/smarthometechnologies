@@ -1,0 +1,41 @@
+﻿.indht-bg {
+    position: relative;
+    top: 10%;
+    transform: translateY(-10%);
+    background: url("../images/ht1.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: auto;
+    padding: 2.5em;
+    filter: saturate(1) blur(0.35px);
+    z-index: 5;
+    transition: all 500ms ease-in-out;
+}
+
+.indht_title {
+    font-size: 2.75em;
+    margin-top: 15%;
+    text-transform: initial;
+    color: #e2e3e6;
+}
+
+
+
+.indht_break {
+    margin: 7% 0 2% 0;
+    height: 1px;
+    width: 100%;
+    background: #e2e3e6;
+}
+
+
+.sub-left {
+    color: #e2e3e6;
+    font-size: 0.9em;
+    position: relative;
+    top: -0.5em;
+    font-weight: 300;
+    letter-spacing: 1px;
+}
+

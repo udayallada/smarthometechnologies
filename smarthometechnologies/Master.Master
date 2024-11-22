@@ -1,0 +1,151 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Master.Master.cs" Inherits="smarthometechnologies.Master" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title>
+        <asp:ContentPlaceHolder ID="Title" runat="server">
+            Smart Home Technologies
+        </asp:ContentPlaceHolder>
+    </title>
+    <link rel="icon" href="images/icon.png"
+        type="image/x-icon" />
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" />
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>    
+    <link href='https://fonts.googleapis.com/css?family=Open Sans' rel='stylesheet' />    
+    <%--<script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.6.0/slick.js"></script>--%>
+    <script src="https://kit.fontawesome.com/d5cef49af9.js" crossorigin="anonymous"></script>
+    <link href="css/master.css" rel="stylesheet" />
+    <%-- whatsapp links --%>
+    <%--<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="https://rawcdn.githack.com/rafaelbotazini/floating-whatsapp/3d18b26d5c7d430a1ab0b664f8ca6b69014aed68/floating-wpp.min.css">
+    <script type="text/javascript" src="https://rawcdn.githack.com/rafaelbotazini/floating-whatsapp/3d18b26d5c7d430a1ab0b664f8ca6b69014aed68/floating-wpp.min.js"></script>
+    <script src="js/WA.js"></script>--%>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <%-- menu --%>
+        <div class="hero-anime">
+            <div class="navigation-wrap bg-light start-header start-style">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-12">
+                            <nav class="navbar navbar-expand-md navbar-light">
+                                <a class="navbar-brand" href="Index.aspx">
+                                    <img src="images/logo_sht.png" /></a>
+                                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                                    <span class="navbar-toggler-icon"></span>
+                                </button>
+                                <div class="collapse navbar-collapse" id="navbarSupportedContent" >
+                                    <ul class="navbar-nav ml-auto py-4 py-md-0">
+                                        <li class="nav-item pl-4 pl-md-0 ml-0 ml-md-4" >
+                                            <a class="nav-link" href="Index.aspx">Home</a>
+                                        </li>
+                                        <li class="nav-item pl-4 pl-md-0 ml-0 ml-md-4">
+                                            <a class="nav-link" href="HomeTheatre.aspx" target="_blank">Home Theatre</a>
+                                        </li>
+                                        <li class="nav-item pl-4 pl-md-0 ml-0 ml-md-4">
+                                            <a class="nav-link" href="HomeAutomation.aspx" target="_blank">Home Automation</a>
+                                        </li>
+                                        <%--<li class="nav-item pl-4 pl-md-0 ml-0 ml-md-4">
+                                            <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">Home Automation</a>
+                                            <div class="dropdown-menu">
+                                                <a class="dropdown-item" href="HomeTheatre.aspx" target="_blank">Home Theatre</a>
+                                                <a class="dropdown-item" href="HomeAutomation.aspx" target="_blank">Home Automation</a>
+                                            </div>
+                                        </li>--%>
+                                        <li class="nav-item pl-4 pl-md-0 ml-0 ml-md-4">
+                                            <a class="nav-link" href="AboutUs.aspx" target="_blank">About Us</a>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </nav>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <script>
+            (function ($) {
+                "use strict";
+                //Menu On Hover
+                $('body').on('mouseenter mouseleave', '.nav-item', function (e) {
+                    if ($(window).width() > 750) {
+                        var _d = $(e.target).closest('.nav-item'); _d.addClass('show');
+                        setTimeout(function () {
+                            _d[_d.is(':hover') ? 'addClass' : 'removeClass']('show');
+                        }, 1000);
+                    }
+                });
+
+            })(jQuery);
+        </script>
+
+        <div style="margin-top: 75px"></div>
+        <%-- Footer --%>
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        </asp:ContentPlaceHolder>
+        <div id="WAButton"></div>
+        <section class="container-cont text-center">
+            
+            <div class="container">
+                <div class="row justify-content-center">
+                    <div class="col-md-12 my-5">
+                        <h1>CONTACT US</h1>
+                    </div>
+                </div>
+                <div class="row pb-4">
+                    <div class="col-md-4 text-center text-md-left pl-sm-0">
+                        <h5 class="mb-1 mt-5 mt-lg-0" style="color: darkblue">Address</h5>
+                        <div class="footer_fontstyle">
+                            <p class="m-0 p-0">H No. 2-3-110/163, VR Colony</p>
+                            <p class="m-0 p-0">St. Joseph Church</p>
+                            <p class="m-0 p-0">Cherlapally, Rampally post</p>
+                            <p>Hyderabad - 501301</p>
+                        </div>
+                        <h5 class="mb-0" style="color: darkblue;">Telephone</h5>
+                        <p><a href="tel:+91 9502907797" class="text-decoration-none footer_fontstyle">+91 9502907797</a></p>
+                        <h5 class="mb-0" style="color: darkblue">Email</h5>
+                        <p><a href="mailto:smarthometechnologies.india@gmail.com" class="text-decoration-none footer_fontstyle">smarthometechnologies.india@gmail.com</a></p>
+                    </div>
+                    <div class="col-md-2 text-center text-md-left pl-sm-0">
+                        <h5 class="mb-1 mt-5 mt-lg-0" style="color: darkblue">Services</h5>
+                        <p class="m-0 p-0"><a href="SmartSwitches.aspx" target="_blank" class="text-decoration-none footer_fontstyle">Home Theatre</a></p>
+                        <p class="m-0 p-0"><a href="VideoDoorPhone.aspx" class="text-decoration-none footer_fontstyle">Home Automation</a></p>
+                    </div>
+                    <div class="col-md-6 col-sm-12 text-md-right text-center">
+                        <div class="contact-page-map mb-1 mt-5 mt-lg-0 rounded">
+                            <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15222.959098258554!2d78.6181054!3d17.4721649!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bcb9d663b61703d%3A0x8a8b101dddc6e6f1!2sSmart%20Home%20Technologies!5e0!3m2!1sen!2sin!4v1730709463090!5m2!1sen!2sin" height="250" style="border: 0; width: 100%" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                        </div>
+                    </div>
+                </div>
+
+                <section class="footer">
+                    <div class="container">
+                        <div class="footer__content ">
+                            <div class="footer__heading">
+                                <h4 style="color: black"><span style="color: darkblue">Smart Home</span> Technologies</h4>
+                            </div>
+                            <p class="mb-0 mt-0 pt-0 footer_fontstyle">Copyright © 2024 smarthometechnologies.india@gmail.com</p>
+                            <ul class="social__media">
+                                <li><a href="https://www.facebook.com/SmartHomeTechee/" target="_blank"><i class="fab fa-facebook-f" style="padding-top: 10px;" aria-hidden="true"></i></a></li>
+                                <li><a href="#"><i class="fab fa-twitter" style="padding-top: 10px;" aria-hidden="true"></i></a></li>
+                                <li><a href="https://www.linkedin.com/company/smart-home-technologies/" target="_blank"><i class="fab fa-linkedin-in" style="padding-top: 10px;" aria-hidden="true"></i></a></li>
+                                
+                                <li><a href="#"><i class="fab fa-youtube" style="padding-top: 10px;" aria-hidden="true"></i></a></li>
+                                <li><a href="https://www.instagram.com/smart_hometechnologies/#" target="_blank"><i class="fab fa-instagram" style="padding-top: 10px;" aria-hidden="true"></i></a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </section>
+            </div>          
+        </section>
+    </form>
+</body>
+</html>
