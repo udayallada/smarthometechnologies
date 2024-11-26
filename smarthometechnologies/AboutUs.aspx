@@ -6,7 +6,7 @@
     <link href="css/aboutus.css" rel="stylesheet" />    
 </asp:Content>
 <asp:Content ID="Content3" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
-    <div class="aboutus" style="background: linear-gradient(to bottom, #EDF1F2, #D5E2F2);">
+    <div style="background: linear-gradient(to bottom, #EDF1F2, #D5E2F2);">
         <div class="container">
             <div class="row">
                 <div class="col-md-12">
