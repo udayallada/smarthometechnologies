@@ -68,9 +68,15 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="AboutUs.aspx" />
+    <Content Include="brands\ajax.png" />
+    <Content Include="brands\beninca.png" />
+    <Content Include="brands\bft.png" />
     <Content Include="brands\eelectron.png" />
+    <Content Include="brands\grandstream.png" />
     <Content Include="brands\hik.png" />
-    <Content Include="brands\optoma.png" />
+    <Content Include="brands\ONETOUCH.png" />
+    <Content Include="brands\tplink.png" />
+    <Content Include="HT_Brands\optoma.png" />
     <Content Include="brands\rti.png" />
     <Content Include="brands\SE.png" />
     <Content Include="brands\somfy.png" />
@@ -83,7 +89,6 @@
     <Content Include="css\homeautomation.css" />
     <Content Include="css\curtains.css" />
     <Content Include="css\brandingpartners.css" />
-    <Content Include="css\StyleSheet1.css" />
     <Content Include="css\videodoorphone.css" />
     <Content Include="css\hometheatre.css" />
     <Content Include="css\master.css" />
@@ -94,19 +99,18 @@
     <Content Include="HT_Brands\artsound.png" />
     <Content Include="HT_Brands\ascendo.png" />
     <Content Include="HT_Brands\aynaudio.png" />
-    <Content Include="HT_Brands\benq.jpg" />
+    <Content Include="HT_Brands\benq.png" />
     <Content Include="HT_Brands\bic.png" />
     <Content Include="HT_Brands\BW.png" />
     <Content Include="HT_Brands\casatunes.png" />
     <Content Include="HT_Brands\Cerasonar.png" />
     <Content Include="HT_Brands\dali.png" />
     <Content Include="HT_Brands\denon.png" />
-    <Content Include="HT_Brands\Earthquake Sound.jpg" />
+    <Content Include="HT_Brands\Earthquake Sound.png" />
     <Content Include="HT_Brands\eelectron.png" />
-    <Content Include="HT_Brands\epson.jpg" />
+    <Content Include="HT_Brands\epson.png" />
     <Content Include="HT_Brands\garvan-logo.png" />
     <Content Include="HT_Brands\heco-audio-original.png" />
-    <Content Include="HT_Brands\hik.png" />
     <Content Include="HT_Brands\JVC-Logo.png" />
     <Content Include="HT_Brands\kordz.png" />
     <Content Include="HT_Brands\Liberty.jpg" />
@@ -119,23 +123,19 @@
     <Content Include="HT_Brands\mk.png" />
     <Content Include="HT_Brands\monitoraudio.png" />
     <Content Include="HT_Brands\nt.png" />
-    <Content Include="HT_Brands\optoma.png" />
     <Content Include="HT_Brands\pure_acoustic.png" />
-    <Content Include="HT_Brands\q-acoustics.jpg" />
-    <Content Include="HT_Brands\rti.png" />
-    <Content Include="HT_Brands\SE.png" />
+    <Content Include="HT_Brands\q-acoustics.png" />
     <Content Include="HT_Brands\sk.png" />
-    <Content Include="HT_Brands\somfy.png" />
     <Content Include="HT_Brands\Sony-logo.png" />
     <Content Include="HT_Brands\speakercraft.png" />
     <Content Include="HT_Brands\stormaudio.png" />
     <Content Include="HT_Brands\taga.png" />
-    <Content Include="HT_Brands\toyoma.png" />
+    <Content Include="brands\toyoma.png" />
     <Content Include="HT_Brands\tremblay.png" />
     <Content Include="HT_Brands\ViewSonic-logo.png" />
-    <Content Include="HT_Brands\xscace_logo.jpg" />
-    <Content Include="HT_Brands\ya.png" />
+    <Content Include="HT_Brands\xscace_logo.png" />
     <Content Include="HT_Brands\zerodb.png" />
+    <Content Include="images\aboutus.jpg" />
     <Content Include="images\ag.jpg" />
     <Content Include="images\alexa.png" />
     <Content Include="images\alexagoogle.jpg" />
@@ -159,6 +159,7 @@
     <Content Include="images\OT500630.png" />
     <Content Include="images\securityalarmsys.jpg" />
     <Content Include="images\sensor.jpg" />
+    <Content Include="images\sensor.png" />
     <Content Include="images\sl_1.jpg" />
     <Content Include="images\smart-home.jpg" />
     <Content Include="images\smartroofs.png" />
@@ -172,8 +173,6 @@
     <Content Include="Web.config" />
     <Content Include="Index.aspx" />
     <Content Include="HomeTheatre.aspx" />
-    <Content Include="WebForm3.aspx" />
-    <Content Include="WebForm4.aspx" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="AboutUs.aspx.cs">
@@ -212,24 +211,11 @@
     <Compile Include="HomeTheatre.aspx.designer.cs">
       <DependentUpon>HomeTheatre.aspx</DependentUpon>
     </Compile>
-    <Compile Include="WebForm3.aspx.cs">
-      <DependentUpon>WebForm3.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="WebForm3.aspx.designer.cs">
-      <DependentUpon>WebForm3.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="WebForm4.aspx.cs">
-      <DependentUpon>WebForm4.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="WebForm4.aspx.designer.cs">
-      <DependentUpon>WebForm4.aspx</DependentUpon>
-    </Compile>
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
     <Content Include="Master.Master" />
+    <None Include="Properties\PublishProfiles\smarthometechnologies20241124204522 - Web Deploy.pubxml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>

@@ -6,13 +6,14 @@
 <asp:Content ID="Content2" ContentPlaceHolderID="head" runat="server">    
     <link href="css/videodoorphone.css" rel="stylesheet" />    
     <link href="css/smartlock.css" rel="stylesheet" />
+    <link href="css/brandingpartners.css" rel="stylesheet" />
 </asp:Content>
 <asp:Content ID="Content3" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
 
     <%-- Smart Switches --%>
     <div class="container-fluid mt-5 mb-5">
     <div class="row pl-md-5 pr-md-5 pl-sm-0 pr-sm-0 pt-5">
-        <div class="col-md-6 pt-5 pl-5 pb-5 pr-5 bg-white">
+        <div class="col-md-6 pt-5 pl-5 pb-5 pr-5 bg-light">
             <div class="card-inner">
                 <h3>Smart Switches</h3>                    
                 <div class="inner-text">
@@ -88,7 +89,7 @@
     <%-- Sensors --%>
     <div class="container-fluid mt-5 mb-5">
         <div class="row pl-md-5 pr-md-5 pl-sm-0 pr-sm-0 ">
-            <div class="col-md-6 pt-5 pl-5 pb-5 pr-5 bg-white">
+            <div class="col-md-7 pt-5 pl-5 pb-5 pr-5 bg-white">
                 <div class="card-inner">
                     <h3>Sensors</h3>                    
                     <div class="inner-text">
@@ -97,9 +98,9 @@
                     <a href="#" class="btn btn--with-icon mt-3"><i class="btn-icon fas fa-long-arrow-alt-right"></i>READ MORE</a>
                 </div>
             </div>
-            <div class="col-md-6 pl-0 pr-0 bg-white">
+            <div class="col-md-5 pl-0 pr-0 bg-white">
                 <div class="card-img">
-                    <img src="images/sensor.jpg" style="width: 100%" />
+                    <img src="images/sensor.png" style="width: 100%" />
                 </div>
             </div>
         </div>
@@ -179,6 +180,78 @@
         </div>
     </div>
 </div>
-
+    <%-- branding partners --%>
+<section class="section section-default mt-none mb-none">
+    <div class="container">
+        <h1 class="mainlock_h1 pb-4">Branding Partners</h1>
+        <div class="row">
+            <div class="col-sm-6 col-md-3 col-lg-2">
+                <div class="square-holder">
+                    <img src="brands/eelectron.png" />
+                </div>
+            </div>                
+            <div class="col-sm-6 col-md-3 col-lg-2">
+                <div class="square-holder">
+                    <img src="brands/hik.png" />
+                </div>
+            </div>            
+            <div class="col-sm-6 col-md-3 col-lg-2">
+                <div class="square-holder">
+                    <img src="brands/rti.png" width="100"/>
+                </div>
+            </div>
+            <div class="col-sm-6 col-md-3 col-lg-2">
+                <div class="square-holder">
+                    <img src="brands/SE.png" />
+                </div>
+            </div>
+            <div class="col-sm-6 col-md-3 col-lg-2">
+                <div class="square-holder">
+                    <img src="brands/somfy.png" />
+                </div>
+            </div>
+            <div class="col-sm-6 col-md-3 col-lg-2">
+                <div class="square-holder">
+                    <img src="brands/toyoma.png" />
+                </div>
+            </div>            
+            <div class="col-sm-6 col-md-3 col-lg-2">
+                <div class="square-holder">
+                    <img src="brands/ya.png" width="70" />
+                </div>
+            </div> 
+            <div class="col-sm-6 col-md-3 col-lg-2">
+                <div class="square-holder">
+                    <img src="brands/ONETOUCH.png" />
+                </div>
+            </div>
+            <div class="col-sm-6 col-md-3 col-lg-2">
+                <div class="square-holder">
+                    <img src="brands/beninca.png" />
+                </div>
+            </div>
+            <div class="col-sm-6 col-md-3 col-lg-2">
+                <div class="square-holder">
+                    <img src="brands/bft.png" width="75" />
+                </div>
+            </div>
+            <div class="col-sm-6 col-md-3 col-lg-2">
+                <div class="square-holder">
+                    <img src="brands/grandstream.png" />
+                </div>
+            </div>
+            <div class="col-sm-6 col-md-3 col-lg-2">
+                <div class="square-holder">
+                    <img src="brands/tplink.png" />
+                </div>
+            </div>
+            <div class="col-sm-6 col-md-3 col-lg-2">
+                <div class="square-holder">
+                    <img src="brands/ajax.png" />
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
  
 </asp:Content>

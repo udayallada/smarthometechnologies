@@ -2,18 +2,22 @@
 
 .ht_style {
     font-family: 'Cutive Mono', monospace;
-    background: whitesmoke /*#a9b7c0*/;
+    background: white /*whitesmoke*/ /*#a9b7c0*/;
     /*padding-bottom:100px*/
+    margin:10px 0 5rem 0;
+    
 }
 
 #home-page {
     height: 70vh;
     /*padding-bottom: 50px;*/
     color: white;
-    background-image: linear-gradient(rgba(180,219,192,0), rgba(0,197,160,0)), url('../images/ht1.jpg');
+    background-image: url('../images/ht1.jpg');
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
+    /*border: 1px solid black;
+    padding: 5px;*/
 }
 
     #home-page h1 {

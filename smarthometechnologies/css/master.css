@@ -299,7 +299,7 @@ a, a:hover {
 /* footer start */
 
 .container-cont {
-    background: #e5e7e9;
+    background: #f2f3f4 /*#e5e7e9*/;
     /*-webkit-box-shadow: inset 0px 35px 104px -33px rgba(138, 155, 165, 0.15);
     -moz-box-shadow: inset 0px 35px 104px -33px rgba(138, 155, 165, 0.15);
     box-shadow: inset 0px 25px 70px -15px rgba(138, 155, 165, 0.15);*/
@@ -346,7 +346,7 @@ ul.social__media {
 
         ul.social__media li a {
             color: dimgray;
-            font-size: 12px;
+            font-size: 15px;
             font-weight:100
         }
 
@@ -359,8 +359,9 @@ ul.social__media {
         height: 35px;
         width: 35px;
         border-radius: 50px;
-        background-color: whitesmoke /*#333*/;
+        background-color: white /*#333*/;
         line-height: 30px;
+        border: 1px solid lightgrey;
     }
 
 ul.bus__list {
