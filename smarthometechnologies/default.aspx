@@ -28,10 +28,10 @@
      <h1 class="mainlock_h1">Home Automation</h1>
      <div class="container bg-light p-5 border">
          <div class="row">
-             <div class="col-md-8 col-sm-12 animatable fadeInDown">
+             <div class="col-md-8 col-62 animatable fadeInDown">
                  <img src="images/ss_ind_banner.jpg" class="indss_banner" />
              </div>
-             <div class="col-md-4 col-sm-12 animatable fadeInUp">
+             <div class="col-md-4 col-62 animatable fadeInUp">
                  <div class="font-description justify-content-center">
                      <p>Upgrade your living spaces with our advanced home automation solutions. From smart switches and motorized curtains to gate motors, video door phones, sensors, digital door locks, and smart roofs, we bring convenience, security, and innovation to your fingertips. Transform your home into a smarter, more efficient haven today!</p>
                      <div class="mt-5 text-center">
@@ -61,232 +61,232 @@
         <div class="container">
             <h1 class="mainlock_h1 pb-4">Branding Partners</h1>
             <div class="row">
-                <div class="col-sm-1 col-md-3 col-lg-2">
+                <div class="col-6 col-md-3 col-lg-2">
                     <div class="square-holder">
                         <img src="brands/eelectron.png" />
                     </div>
                 </div>                
-                <div class="col-sm-1 col-md-3 col-lg-2">
+                <div class="col-6 col-md-3 col-lg-2">
                     <div class="square-holder">
                         <img src="brands/hik.png" />
                     </div>
                 </div>                
-                <div class="col-sm-1 col-md-3 col-lg-2">
+                <div class="col-6 col-md-3 col-lg-2">
                     <div class="square-holder">
                         <img src="brands/rti.png" />
                     </div>
                 </div>
-                <div class="col-sm-1 col-md-3 col-lg-2">
+                <div class="col-6 col-md-3 col-lg-2">
                     <div class="square-holder">
                         <img src="brands/SE.png" />
                     </div>
                 </div>
-                <div class="col-sm-1 col-md-3 col-lg-2">
+                <div class="col-6 col-md-3 col-lg-2">
                     <div class="square-holder">
                         <img src="brands/somfy.png" />
                     </div>
                 </div>
-                <div class="col-sm-1 col-md-3 col-lg-2">
+                <div class="col-6 col-md-3 col-lg-2">
                     <div class="square-holder">
                         <img src="brands/toyoma.png" />
                     </div>
                 </div>
-                <div class="col-sm-6 col-md-3 col-lg-2">
+                <div class="col-6 col-md-3 col-lg-2">
                     <div class="square-holder">
                         <img src="brands/ajax.png" />
                     </div>
                 </div>
-                <div class="col-sm-1 col-md-3 col-lg-2">
+                <div class="col-6 col-md-3 col-lg-2">
                     <div class="square-holder">
                         <img src="HT_Brands/artsound.png" />
                     </div>
                 </div>
-                <div class="col-sm-1 col-md-3 col-lg-2">
+                <div class="col-6 col-md-3 col-lg-2">
                     <div class="square-holder">
                         <img src="HT_Brands/adeptaudio.png" />
                     </div>
                 </div>
-                <div class="col-sm-1 col-md-3 col-lg-2">
+                <div class="col-6 col-md-3 col-lg-2">
                     <div class="square-holder">
                         <img src="HT_Brands/ascendo.png" />
                     </div>
                 </div>
-                <div class="col-sm-1 col-md-3 col-lg-2">
+                <div class="col-6 col-md-3 col-lg-2">
                     <div class="square-holder">
                         <img src="HT_Brands/aynaudio.png" />
                     </div>
                 </div>
-                <div class="col-sm-1 col-md-3 col-lg-2">
+                <div class="col-6 col-md-3 col-lg-2">
                     <div class="square-holder">
                         <img src="HT_Brands/bic.png" />
                     </div>
                 </div>
-                <div class="col-sm-1 col-md-3 col-lg-2">
+                <div class="col-6 col-md-3 col-lg-2">
                     <div class="square-holder">
                         <img src="HT_Brands/BW.png" />
                     </div>
                 </div>
-                <div class="col-sm-1 col-md-3 col-lg-2">
+                <div class="col-6 col-md-3 col-lg-2">
                     <div class="square-holder">
                         <img src="HT_Brands/casatunes.png" />
                     </div>
                 </div>
-                <div class="col-sm-1 col-md-3 col-lg-2">
+                <div class="col-6 col-md-3 col-lg-2">
                     <div class="square-holder">
                         <img src="HT_Brands/Cerasonar.png" />
                     </div>
                 </div>
-                <div class="col-sm-1 col-md-3 col-lg-2">
+                <div class="col-6 col-md-3 col-lg-2">
                     <div class="square-holder">
                         <img src="HT_Brands/dali.png" />
                     </div>
                 </div>
-                <div class="col-sm-1 col-md-3 col-lg-2">
+                <div class="col-6 col-md-3 col-lg-2">
                     <div class="square-holder">
                         <img src="HT_Brands/denon.png" />
                     </div>
                 </div>
-                <div class="col-sm-1 col-md-3 col-lg-2">
+                <div class="col-6 col-md-3 col-lg-2">
                     <div class="square-holder">
                         <img src="HT_Brands/garvan-logo.png" />
                     </div>
                 </div>
-                <div class="col-sm-1 col-md-3 col-lg-2">
+                <div class="col-6 col-md-3 col-lg-2">
                     <div class="square-holder">
                         <img src="HT_Brands/heco-audio-original.png" />
                     </div>
                 </div>
-                <div class="col-sm-1 col-md-3 col-lg-2">
+                <div class="col-6 col-md-3 col-lg-2">
                     <div class="square-holder">
                         <img src="HT_Brands/JVC-Logo.png" />
                     </div>
                 </div>
-                <div class="col-sm-1 col-md-3 col-lg-2">
+                <div class="col-6 col-md-3 col-lg-2">
                     <div class="square-holder">
                         <img src="HT_Brands/kordz.png" />
                     </div>
                 </div>
-                <div class="col-sm-1 col-md-3 col-lg-2">
+                <div class="col-6 col-md-3 col-lg-2">
                     <div class="square-holder">
                         <img src="HT_Brands/Liberty.jpg" />
                     </div>
                 </div>
-                <div class="col-sm-1 col-md-3 col-lg-2">
+                <div class="col-6 col-md-3 col-lg-2">
                     <div class="square-holder">
                         <img src="HT_Brands/loewe.png" />
                     </div>
                 </div>
-                <div class="col-sm-1 col-md-3 col-lg-2">
+                <div class="col-6 col-md-3 col-lg-2">
                     <div class="square-holder">
                         <img src="HT_Brands/lumina.jpg" />
                     </div>
                 </div>
-                <div class="col-sm-1 col-md-3 col-lg-2">
+                <div class="col-6 col-md-3 col-lg-2">
                     <div class="square-holder">
                         <img src="HT_Brands/Lyngdorf.png" />
                     </div>
                 </div>
-                <div class="col-sm-1 col-md-3 col-lg-2">
+                <div class="col-6 col-md-3 col-lg-2">
                     <div class="square-holder">
                         <img src="HT_Brands/Magnat.png" />
                     </div>
                 </div>
-                <div class="col-sm-1 col-md-3 col-lg-2">
+                <div class="col-6 col-md-3 col-lg-2">
                     <div class="square-holder">
                         <img src="HT_Brands/Marantz_logo.png" />
                     </div>
                 </div>
-                <div class="col-sm-1 col-md-3 col-lg-2">
+                <div class="col-6 col-md-3 col-lg-2">
                     <div class="square-holder">
                         <img src="HT_Brands/mission.png" />
                     </div>
                 </div>
-                <div class="col-sm-1 col-md-3 col-lg-2">
+                <div class="col-6 col-md-3 col-lg-2">
                     <div class="square-holder">
                         <img src="HT_Brands/mk.png" />
                     </div>
                 </div>
-                <div class="col-sm-1 col-md-3 col-lg-2">
+                <div class="col-6 col-md-3 col-lg-2">
                     <div class="square-holder">
                         <img src="HT_Brands/monitoraudio.png" />
                     </div>
                 </div>
-                <div class="col-sm-1 col-md-3 col-lg-2">
+                <div class="col-6 col-md-3 col-lg-2">
                     <div class="square-holder">
                         <img src="HT_Brands/nt.png" />
                     </div>
                 </div>
-                <div class="col-sm-1 col-md-3 col-lg-2">
+                <div class="col-6 col-md-3 col-lg-2">
                     <div class="square-holder">
                         <img src="HT_Brands/pure_acoustic.png" />
                     </div>
                 </div>
-                <div class="col-sm-1 col-md-3 col-lg-2">
+                <div class="col-6 col-md-3 col-lg-2">
                     <div class="square-holder">
                         <img src="HT_Brands/q-acoustics.png" />
                     </div>
                 </div>
-                <div class="col-sm-1 col-md-3 col-lg-2">
+                <div class="col-6 col-md-3 col-lg-2">
                     <div class="square-holder">
                         <img src="HT_Brands/sk.png" />
                     </div>
                 </div>
-                <div class="col-sm-1 col-md-3 col-lg-2">
+                <div class="col-6 col-md-3 col-lg-2">
                     <div class="square-holder">
                         <img src="HT_Brands/Sony-logo.png" />
                     </div>
                 </div>
-                <div class="col-sm-1 col-md-3 col-lg-2">
+                <div class="col-6 col-md-3 col-lg-2">
                     <div class="square-holder">
                         <img src="HT_Brands/stormaudio.png" />
                     </div>
                 </div>
-                <div class="col-sm-1 col-md-3 col-lg-2">
+                <div class="col-6 col-md-3 col-lg-2">
                     <div class="square-holder">
                         <img src="HT_Brands/taga.png" />
                     </div>
                 </div>
-                <div class="col-sm-1 col-md-3 col-lg-2">
+                <div class="col-6 col-md-3 col-lg-2">
                     <div class="square-holder">
                         <img src="HT_Brands/tremblay.png" />
                     </div>
                 </div>
-                <div class="col-sm-1 col-md-3 col-lg-2">
+                <div class="col-6 col-md-3 col-lg-2">
                     <div class="square-holder">
                         <img src="HT_Brands/ViewSonic-logo.png" />
                     </div>
                 </div>
-                <div class="col-sm-1 col-md-3 col-lg-2">
+                <div class="col-6 col-md-3 col-lg-2">
                     <div class="square-holder">
                         <img src="HT_Brands/xscace_logo.png" />
                     </div>
                 </div>
-                <div class="col-sm-1 col-md-3 col-lg-2">
+                <div class="col-6 col-md-3 col-lg-2">
                     <div class="square-holder">
                         <img src="brands/ya.png" />
                     </div>
                 </div>
-                <div class="col-sm-1 col-md-3 col-lg-2">
+                <div class="col-6 col-md-3 col-lg-2">
                     <div class="square-holder">
                         <img src="HT_Brands/zerodb.png" />
                     </div>
                 </div>
-                <div class="col-sm-1 col-md-3 col-lg-2">
+                <div class="col-6 col-md-3 col-lg-2">
                     <div class="square-holder">
                         <img src="HT_Brands/benq.png" />
                     </div>
                 </div>
-                <div class="col-sm-1 col-md-3 col-lg-2">
+                <div class="col-6 col-md-3 col-lg-2">
                     <div class="square-holder">
                         <img src="HT_Brands/Earthquake Sound.png" />
                     </div>
                 </div>
-                <div class="col-sm-1 col-md-3 col-lg-2">
+                <div class="col-6 col-md-3 col-lg-2">
                     <div class="square-holder">
                         <img src="HT_Brands/epson.png" />
                     </div>
                 </div>
-                <div class="col-sm-6 col-md-3 col-lg-2">
+                <div class="col-6 col-md-3 col-lg-2">
                     <div class="square-holder">
                         <img src="HT_Brands/optoma.png" />
                     </div>

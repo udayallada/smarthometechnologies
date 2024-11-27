@@ -18,4 +18,13 @@
 
     .square-holder:hover img {
         filter: none;
+        transform: scale(1.1);
     }
+
+@media (max-width: 576px) {
+    .square-holder img {
+        width: 80%;
+        float: left;
+    }
+}
+
