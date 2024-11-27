@@ -1,4 +1,4 @@
-﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Master.Master" AutoEventWireup="true" CodeBehind="Index.aspx.cs" Inherits="smarthometechnologies.WebForm1" %>
+﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Master.Master" AutoEventWireup="true" CodeBehind="default.aspx.cs" Inherits="smarthometechnologies.WebForm1" %>
 <asp:Content ID="Content1" ContentPlaceHolderID="Title" runat="server">
     Home
 </asp:Content>

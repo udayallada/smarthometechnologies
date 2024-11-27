@@ -171,7 +171,7 @@
     <Content Include="js\smartswitches_animatesjs.js" />
     <Content Include="js\WA.js" />
     <Content Include="Web.config" />
-    <Content Include="Index.aspx" />
+    <Content Include="default.aspx" />
     <Content Include="HomeTheatre.aspx" />
   </ItemGroup>
   <ItemGroup>
@@ -197,12 +197,12 @@
     <Compile Include="Master.Master.designer.cs">
       <DependentUpon>Master.Master</DependentUpon>
     </Compile>
-    <Compile Include="Index.aspx.cs">
-      <DependentUpon>Index.aspx</DependentUpon>
+    <Compile Include="default.aspx.cs">
+      <DependentUpon>default.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
-    <Compile Include="Index.aspx.designer.cs">
-      <DependentUpon>Index.aspx</DependentUpon>
+    <Compile Include="default.aspx.designer.cs">
+      <DependentUpon>default.aspx</DependentUpon>
     </Compile>
     <Compile Include="HomeTheatre.aspx.cs">
       <DependentUpon>HomeTheatre.aspx</DependentUpon>
