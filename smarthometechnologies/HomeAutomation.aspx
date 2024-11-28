@@ -185,67 +185,67 @@
     <div class="container">
         <h1 class="mainlock_h1 pb-4">Branding Partners</h1>
         <div class="row">
-            <div class="col-sm-6 col-md-3 col-lg-2">
+            <div class="col-6 col-md-3 col-lg-2">
                 <div class="square-holder">
                     <img src="brands/eelectron.png" />
                 </div>
             </div>                
-            <div class="col-sm-6 col-md-3 col-lg-2">
+            <div class="col-6 col-md-3 col-lg-2">
                 <div class="square-holder">
                     <img src="brands/hik.png" />
                 </div>
             </div>            
-            <div class="col-sm-6 col-md-3 col-lg-2">
+            <div class="col-6 col-md-3 col-lg-2">
                 <div class="square-holder">
                     <img src="brands/rti.png" width="100"/>
                 </div>
             </div>
-            <div class="col-sm-6 col-md-3 col-lg-2">
+            <div class="col-6 col-md-3 col-lg-2">
                 <div class="square-holder">
                     <img src="brands/SE.png" />
                 </div>
             </div>
-            <div class="col-sm-6 col-md-3 col-lg-2">
+            <div class="col-6 col-md-3 col-lg-2">
                 <div class="square-holder">
                     <img src="brands/somfy.png" />
                 </div>
             </div>
-            <div class="col-sm-6 col-md-3 col-lg-2">
+            <div class="col-6 col-md-3 col-lg-2">
                 <div class="square-holder">
                     <img src="brands/toyoma.png" />
                 </div>
             </div>            
-            <div class="col-sm-6 col-md-3 col-lg-2">
+            <div class="col-6 col-md-3 col-lg-2">
                 <div class="square-holder">
                     <img src="brands/ya.png" width="70" />
                 </div>
             </div> 
-            <div class="col-sm-6 col-md-3 col-lg-2">
+            <div class="col-6 col-md-3 col-lg-2">
                 <div class="square-holder">
                     <img src="brands/ONETOUCH.png" />
                 </div>
             </div>
-            <div class="col-sm-6 col-md-3 col-lg-2">
+            <div class="col-6 col-md-3 col-lg-2">
                 <div class="square-holder">
                     <img src="brands/beninca.png" />
                 </div>
             </div>
-            <div class="col-sm-6 col-md-3 col-lg-2">
+            <div class="col-6 col-md-3 col-lg-2">
                 <div class="square-holder">
                     <img src="brands/bft.png" width="75" />
                 </div>
             </div>
-            <div class="col-sm-6 col-md-3 col-lg-2">
+            <div class="col-6 col-md-3 col-lg-2">
                 <div class="square-holder">
                     <img src="brands/grandstream.png" />
                 </div>
             </div>
-            <div class="col-sm-6 col-md-3 col-lg-2">
+            <div class="col-6 col-md-3 col-lg-2">
                 <div class="square-holder">
                     <img src="brands/tplink.png" />
                 </div>
             </div>
-            <div class="col-sm-6 col-md-3 col-lg-2">
+            <div class="col-6 col-md-3 col-lg-2">
                 <div class="square-holder">
                     <img src="brands/ajax.png" />
                 </div>
