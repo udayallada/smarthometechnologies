@@ -1,14 +1,14 @@
 ﻿.indht-bg {
     position: relative;
-    top: 10%;
-    transform: translateY(-10%);
-    background: url("../images/ht1.jpg");
+    top: 5%;
+    margin-top:100px;
+    transform: translateY(-10%);    
+    background-image: url('../images/ht1.jpg');
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
     height: auto;
-    padding: 2.5em;
-    #filter: saturate(1) blur(0.35px);
+    padding: 2.5em;    
     z-index: 5;
     transition: all 500ms ease-in-out;
 }

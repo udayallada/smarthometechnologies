@@ -6,8 +6,6 @@
 <link href="css/headbanner.css" rel="stylesheet" />
 <link href="css/homeautomation.css" rel="stylesheet" />
 <link href="css/hometheatre.css" rel="stylesheet" />
-<link href="css/smartswitches_animations.css" rel="stylesheet" />
-<script src="js/smartswitches_animatesjs.js"></script>
 <link href="css/brandingpartners.css" rel="stylesheet" />
 </asp:Content>
 <asp:Content ID="Content3" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
@@ -26,16 +24,18 @@
  <%-- home auatomation --%>
  <div id="smartswitches" class="indexsub2-main">
      <h1 class="mainlock_h1">Home Automation</h1>
-     <div class="container bg-light p-5 border">
+     <div class="bg-light p-5 border">
          <div class="row">
-             <div class="col-md-8 col-62 animatable fadeInDown">
+             <div class="col-md-6 col-6">
                  <img src="images/ss_ind_banner.jpg" class="indss_banner" />
              </div>
-             <div class="col-md-4 col-62 animatable fadeInUp">
+             <div class="col-md-6 col-6">
                  <div class="font-description justify-content-center">
-                     <p>Upgrade your living spaces with our advanced home automation solutions. From smart switches and motorized curtains to gate motors, video door phones, sensors, digital door locks, and smart roofs, we bring convenience, security, and innovation to your fingertips. Transform your home into a smarter, more efficient haven today!</p>
-                     <div class="mt-5 text-center">
-                         <a href="HomeAutomation.aspx" target="_blank" class="btn btn--with-icon mt-3"><i class="btn-icon fas fa-long-arrow-alt-right"></i>READ MORE</a>
+                     <p>Transform the way you control your home’s lighting with our cutting-edge smart switches. Designed for modern living, these switches allow you to manage your lights remotely using a smartphone app or voice commands. Whether you're at home or on the go, you can turn lights on or off, adjust brightness levels, or set schedules to match your routine. Our smart switches are compatible with leading smart home systems, offering seamless integration for a truly connected experience.</p>
+                     <p>Stylishly designed to complement any interior, our smart switches are the perfect blend of functionality, efficiency, and sophistication. Upgrade to smarter lighting control today!
+                     </p>
+                     <div class="text-left ml-2">
+                         <a href="HomeAutomation.aspx" target="_blank" class="btn btn--with-icon"><i class="btn-icon fas fa-long-arrow-alt-right"></i>READ MORE</a>
                      </div>
                  </div>
              </div>
@@ -43,22 +43,27 @@
      </div>
  </div>
 
+
  <%-- Home Theatre --%>
- <div class="p-5">
-     <div class="row indht-bg fadeInDown animatable">
-         <div class="col-md-6">
-             <h1 class="indht_title">Home Theatre</h1>
-             <span class="sub-left">Enjoy the theatrical experience! </span>
-             <div class="indht_break"></div>
-             <p class="mb-5" style="color: #e2e3e6;">Immerse yourself in the ultimate entertainment experience with our premium home theater solutions. Enjoy stunning visuals, crystal-clear sound, and seamless integration, turning any room into a cinematic masterpiece. Elevate your movie nights, gaming sessions, and music experiences like never before!</p>
-             <div><a href="HomeTheatre.aspx" target="_blank" class="btn btn--with-icon mt-3 pr-3 border"><i class="btn-icon fas fa-long-arrow-alt-right "></i>READ MORE</a></div>
-         </div>
-     </div>
- </div>
+    <div class="container-fluid">
+        <div class="indht-bg">
+            <div class="row">
+                <div class="col-md-6 col-12">
+                    <h1 class="indht_title">Home Theatre</h1>
+                    <span class="sub-left">Enjoy the theatrical experience! </span>
+                    <div class="indht_break"></div>
+                    <p class="mb-5" style="color: #e2e3e6;">Immerse yourself in the ultimate entertainment experience with our premium home theater solutions. Enjoy stunning visuals, crystal-clear sound, and seamless integration, turning any room into a cinematic masterpiece. Elevate your movie nights, gaming sessions, and music experiences like never before!</p>
+                    <div><a href="HomeTheatre.aspx" target="_blank" class="btn btn--with-icon mt-3 pr-3 border"><i class="btn-icon fas fa-long-arrow-alt-right "></i>READ MORE</a></div>
+                </div>
+            </div>
+        </div>
+    </div>
+     
+ 
 
     <%-- branding partners --%>
-    <section class="section section-default mt-none mb-none">
-        <div class="container">
+    <section class="container section section-default">
+       <%-- <div class="container-fluid">--%>
             <h1 class="mainlock_h1 pb-4">Branding Partners</h1>
             <div class="row">
                 <div class="col-6 col-md-3 col-lg-2">
@@ -297,7 +302,7 @@
                     </div>
                 </div>
             </div>
-        </div>
+       <%-- </div>--%>
     </section>
 
 </asp:Content>

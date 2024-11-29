@@ -1,23 +1,17 @@
 ﻿
 
-.ht_style {
-    #font-family: 'Cutive Mono', monospace;
-    background: white /*whitesmoke*/ /*#a9b7c0*/;
-    /*padding-bottom:100px*/
-    margin:10px 0 5rem 0;
-    
+.ht_style {    
+    background: white;    
+    margin:8rem 0 4rem 0;    
 }
 
 #home-page {
-    height: 70vh;
-    /*padding-bottom: 50px;*/
+    /*height: 70vh;*/    
     color: white;
     background-image: url('../images/ht1.jpg');
     background-size: cover;
     background-position: center;
-    background-attachment: fixed;
-    /*border: 1px solid black;
-    padding: 5px;*/
+    background-attachment: fixed;   
 }
 
     #home-page h1 {

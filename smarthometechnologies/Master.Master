@@ -32,7 +32,7 @@
                         <div class="col-12">
                             <nav class="navbar navbar-expand-md navbar-light">
                                 <a class="navbar-brand" href="Index.aspx">
-                                    <img src="images/logo_sht.png" /></a>
+                                    <img src="images/SmartHome_Logo.png" /></a>
                                 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                                     <span class="navbar-toggler-icon"></span>
                                 </button>
@@ -88,8 +88,8 @@
         <section class="container-cont text-left">            
             <div class="container">
                 <div class="row justify-content-center">
-                    <div class="col-md-12 my-5">
-                        <h1>CONTACT US</h1>
+                    <div class="col-md-12 my-4">
+                        <h1 class="text-center">CONTACT US</h1>
                     </div>
                 </div>
                 <div class="row pb-4">

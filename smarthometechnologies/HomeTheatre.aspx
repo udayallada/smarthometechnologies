@@ -9,7 +9,7 @@
     <link href="css/brandingpartners.css" rel="stylesheet" />
 </asp:Content>
 <asp:Content ID="Content3" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
-    <div class="ht_style pt-5 pl-3 pr-3">
+    <div class="ht_style pl-3 pr-3">
         <section id="home-page" class="d-flex flex-column justify-content-center shadow">
             <div class="row">
                 <h1 class="display-1 ht_titles">Home<br /> Theatre</h1>
