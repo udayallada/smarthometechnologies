@@ -76,6 +76,7 @@
     <Content Include="brands\hik.png" />
     <Content Include="brands\ONETOUCH.png" />
     <Content Include="brands\tplink.png" />
+    <Content Include="HT_Brands\definitive_technology.png" />
     <Content Include="HT_Brands\optoma.png" />
     <Content Include="brands\rti.png" />
     <Content Include="brands\SE.png" />

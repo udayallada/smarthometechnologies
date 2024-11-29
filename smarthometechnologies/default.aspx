@@ -158,7 +158,7 @@
                 </div>
                 <div class="col-6 col-md-3 col-lg-2">
                     <div class="square-holder">
-                        <img src="HT_Brands/JVC-Logo.png" />
+                        <img src="HT_Brands/JVC-Logo.png" width="80" />
                     </div>
                 </div>
                 <div class="col-6 col-md-3 col-lg-2">
@@ -263,7 +263,7 @@
                 </div>
                 <div class="col-6 col-md-3 col-lg-2">
                     <div class="square-holder">
-                        <img src="brands/ya.png" />
+                        <img src="brands/ya.png" width="70"/>
                     </div>
                 </div>
                 <div class="col-6 col-md-3 col-lg-2">
@@ -289,6 +289,11 @@
                 <div class="col-6 col-md-3 col-lg-2">
                     <div class="square-holder">
                         <img src="HT_Brands/optoma.png" />
+                    </div>
+                </div>
+                <div class="col-6 col-md-3 col-lg-2">
+                    <div class="square-holder">
+                        <img src="HT_Brands/definitive_technology.png" />
                     </div>
                 </div>
             </div>

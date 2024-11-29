@@ -85,7 +85,7 @@
         <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
         </asp:ContentPlaceHolder>
         <div id="WAButton"></div>
-        <section class="container-cont text-center">            
+        <section class="container-cont text-left">            
             <div class="container">
                 <div class="row justify-content-center">
                     <div class="col-md-12 my-5">
@@ -93,8 +93,8 @@
                     </div>
                 </div>
                 <div class="row pb-4">
-                    <div class="col-md-4 text-center text-md-left pl-sm-0">
-                        <h5 class="mb-1 mt-5 mt-lg-0" style="color: darkblue">Address</h5>
+                    <div class="col-md-4 text-sm-left text-md-left pl-sm-0">
+                        <h5 class="mb-1" style="color: darkblue">Address</h5>
                         <div class="footer_fontstyle">
                             <p class="m-0 p-0">H No. 2-3-110/163, VR Colony</p>
                             <p class="m-0 p-0">St. Joseph Church</p>
@@ -106,12 +106,12 @@
                         <h5 class="mb-0" style="color: darkblue">Email</h5>
                         <p><a href="mailto:smarthometechnologies.india@gmail.com" class="text-decoration-none footer_fontstyle">smarthometechnologies.india@gmail.com</a></p>
                     </div>
-                    <div class="col-md-2 text-center text-md-left pl-sm-0">
-                        <h5 class="mb-1 mt-5 mt-lg-0" style="color: darkblue">Services</h5>
+                    <div class="col-md-2 text-sm-left text-md-left pl-sm-0">
+                        <h5 class="mb-1 mt-2 mt-lg-0" style="color: darkblue">Services</h5>
                         <p class="m-0 p-0"><a href="SmartSwitches.aspx" target="_blank" class="text-decoration-none footer_fontstyle">Home Theatre</a></p>
                         <p class="m-0 p-0"><a href="VideoDoorPhone.aspx" class="text-decoration-none footer_fontstyle">Home Automation</a></p>
                     </div>
-                    <div class="col-md-6 col-sm-12 text-md-right text-center border">
+                    <div class="col-md-6 col-sm-12 text-md-right text-sm-left border">
                         <div class="contact-page-map mb-1 mt-5 mt-lg-0 rounded">
                             <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15222.959098258554!2d78.6181054!3d17.4721649!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bcb9d663b61703d%3A0x8a8b101dddc6e6f1!2sSmart%20Home%20Technologies!5e0!3m2!1sen!2sin!4v1730709463090!5m2!1sen!2sin" height="250" style="border: 0; width: 100%" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
                         </div>
