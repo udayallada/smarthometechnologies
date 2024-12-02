@@ -24,12 +24,12 @@
  <%-- home auatomation --%>
  <div id="smartswitches" class="indexsub2-main">
      <h1 class="mainlock_h1">Home Automation</h1>
-     <div class="bg-light p-5 border">
+     <div class="bg-light p-5">
          <div class="row">
-             <div class="col-md-6 col-6">
+             <div class="col-md-6 col-sm-12">
                  <img src="images/ss_ind_banner.jpg" class="indss_banner" />
              </div>
-             <div class="col-md-6 col-6">
+             <div class="col-md-6 col-sm-12">
                  <div class="font-description justify-content-center">
                      <p>Transform the way you control your home’s lighting with our cutting-edge smart switches. Designed for modern living, these switches allow you to manage your lights remotely using a smartphone app or voice commands. Whether you're at home or on the go, you can turn lights on or off, adjust brightness levels, or set schedules to match your routine. Our smart switches are compatible with leading smart home systems, offering seamless integration for a truly connected experience.</p>
                      <p>Stylishly designed to complement any interior, our smart switches are the perfect blend of functionality, efficiency, and sophistication. Upgrade to smarter lighting control today!
