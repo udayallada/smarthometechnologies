@@ -1,21 +1,18 @@
 ﻿
-.cont-banner {
+/*.cont-banner {
     max-width: 960px;
     margin: 0 auto;
-}
+}*/
 
 .main-ban-head {
     width: 100%;
-    height: auto;
+    height: 100vh;
     color: #fff;
     text-align: center;
     background-size: cover;
     background-image: url('../images/smart-home.jpg');    
 }
 
-/*.title_h1 {
-    font-size:300px
-}*/
 
     header .overlay {
         background-color: rgba(47, 48, 48, 0.5);
@@ -54,13 +51,13 @@ header .container .pre-header {
         background-color: whitesmoke;
     }
 
-    header .container .pre-header:before {
+  /*  header .container .pre-header:before {
         margin-right: 15px;
     }
 
     header .container .pre-header:after {
         margin-left: 15px;
-    }
+    }*/
 
 header .container h1 {
     font-size: 55px;
@@ -77,25 +74,25 @@ header .container h1 {
 }
 
 header .container .post-header {
-    margin-bottom: 75px;
+    margin-bottom: 70px;
 }
 
-    header .container .post-header:before, header .container .post-header:after {
+    /*header .container .post-header:before, header .container .post-header:after {
         width: 10.416666%;
         height: 4px;
         border: 1px solid whitesmoke;
         border-left: none;
         border-right: none;
         vertical-align: middle;
-    }
+    }*/
 
-    header .container .post-header:before {
-        margin-right: 2.08333%;
+    /*header .container .post-header:before {
+        margin-right:0px*/ /*2.08333%*//*;
     }
 
     header .container .post-header:after {
         margin-left: 2.08333%;
-    }
+    }*/
 
 header .container .banner-contact {
     width: 250px;
@@ -104,7 +101,7 @@ header .container .banner-contact {
     border: 1px solid whitesmoke;
     color: #fff;
     background: transparent;
-    font-size: 18px;
+    font-size: 15px;
     text-transform: uppercase;
     outline: none;
     cursor: pointer;
@@ -112,7 +109,7 @@ header .container .banner-contact {
 
 @media (max-width: 799px) {
     header .container .banner-contact {
-        font-size: 10px;
+        font-size: 12px;
     }
 }
 

@@ -1,12 +1,6 @@
 ﻿
-
-.ht_style {    
-    background: white;    
-    margin:8rem 0 4rem 0;    
-}
-
 #home-page {
-    height:auto /*80vh*/;    
+    height:100vh /*80vh*/;    
     color: white;
     background-image: url('../images/ht1.jpg');
     background-size: cover;
