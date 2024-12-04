@@ -65,7 +65,7 @@
                 </div>
             </div>
         </div>
-        <script>
+        <%--<script>
             (function ($) {
                 "use strict";
                 //Menu On Hover
@@ -79,7 +79,7 @@
                 });
 
             })(jQuery);
-        </script>
+        </script>--%>
         
         <%-- Footer --%>
         <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
