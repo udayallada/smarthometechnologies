@@ -1,7 +1,7 @@
 ﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Master.Master" AutoEventWireup="true" CodeBehind="hometheatre.aspx.cs" Inherits="smarthometechnologies.WebForm2" %>
 
 <asp:Content ID="Content1" ContentPlaceHolderID="Title" runat="server">
-    Home Theare
+    home theatre
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="head" runat="server">
     <link href="css/ht-banner.css" rel="stylesheet" />    
