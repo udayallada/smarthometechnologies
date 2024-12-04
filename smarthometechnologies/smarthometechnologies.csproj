@@ -67,7 +67,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Content Include="AboutUs.aspx" />
+    <Content Include="aboutus.aspx" />
     <Content Include="brands\ajax.png" />
     <Content Include="brands\beninca.png" />
     <Content Include="brands\bft.png" />
@@ -93,7 +93,7 @@
     <Content Include="css\hometheatre.css" />
     <Content Include="css\master.css" />
     <Content Include="css\navbar_style.css" />
-    <Content Include="HomeAutomation.aspx" />
+    <Content Include="homeautomation.aspx" />
     <Content Include="HT_Brands\adeptaudio.png" />
     <Content Include="HT_Brands\artsound.png" />
     <Content Include="HT_Brands\ascendo.png" />
@@ -170,22 +170,22 @@
     <Content Include="js\WA.js" />
     <Content Include="Web.config" />
     <Content Include="default.aspx" />
-    <Content Include="HomeTheatre.aspx" />
+    <Content Include="hometheatre.aspx" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="AboutUs.aspx.cs">
-      <DependentUpon>AboutUs.aspx</DependentUpon>
+    <Compile Include="aboutus.aspx.cs">
+      <DependentUpon>aboutus.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
-    <Compile Include="AboutUs.aspx.designer.cs">
-      <DependentUpon>AboutUs.aspx</DependentUpon>
+    <Compile Include="aboutus.aspx.designer.cs">
+      <DependentUpon>aboutus.aspx</DependentUpon>
     </Compile>
-    <Compile Include="HomeAutomation.aspx.cs">
-      <DependentUpon>HomeAutomation.aspx</DependentUpon>
+    <Compile Include="homeautomation.aspx.cs">
+      <DependentUpon>homeautomation.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
-    <Compile Include="HomeAutomation.aspx.designer.cs">
-      <DependentUpon>HomeAutomation.aspx</DependentUpon>
+    <Compile Include="homeautomation.aspx.designer.cs">
+      <DependentUpon>homeautomation.aspx</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Master.Master.cs">
@@ -202,12 +202,12 @@
     <Compile Include="default.aspx.designer.cs">
       <DependentUpon>default.aspx</DependentUpon>
     </Compile>
-    <Compile Include="HomeTheatre.aspx.cs">
-      <DependentUpon>HomeTheatre.aspx</DependentUpon>
+    <Compile Include="hometheatre.aspx.cs">
+      <DependentUpon>hometheatre.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
-    <Compile Include="HomeTheatre.aspx.designer.cs">
-      <DependentUpon>HomeTheatre.aspx</DependentUpon>
+    <Compile Include="hometheatre.aspx.designer.cs">
+      <DependentUpon>hometheatre.aspx</DependentUpon>
     </Compile>
   </ItemGroup>
   <ItemGroup>

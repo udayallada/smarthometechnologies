@@ -6,7 +6,7 @@
 }
 
 #home-page {
-    /*height: 70vh;*/    
+    height:auto /*80vh*/;    
     color: white;
     background-image: url('../images/ht1.jpg');
     background-size: cover;

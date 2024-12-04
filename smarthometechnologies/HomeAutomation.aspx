@@ -1,4 +1,4 @@
-﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Master.Master" AutoEventWireup="true" CodeBehind="HomeAutomation.aspx.cs" Inherits="smarthometechnologies.HomeAutomation" %>
+﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Master.Master" AutoEventWireup="true" CodeBehind="homeautomation.aspx.cs" Inherits="smarthometechnologies.HomeAutomation" %>
 
 <asp:Content ID="Content1" ContentPlaceHolderID="Title" runat="server">
     Home Automation
