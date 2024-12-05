@@ -10,7 +10,7 @@
     color: #fff;
     text-align: center;
     background-size: cover;
-    background-image: url('../images/smart-home.jpg');    
+    background-image: url(https://images.unsplash.com/photo-1485846234645-a62644f84728?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=40aeba3c68446f98649f5bf962faf5f0&auto=format&fit=crop&w=1480&q=80) /*url('../images/smart-home.jpg')*/;
 }
 
 

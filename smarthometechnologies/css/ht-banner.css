@@ -1,11 +1,12 @@
 ﻿
 #home-page {
-    height:100vh /*80vh*/;    
+    height: 100vh /*80vh*/;
+    padding-right: 20px;
     color: white;
-    background-image: url('../images/ht1.jpg');
+    background-image: url(https://images.unsplash.com/photo-1485846234645-a62644f84728?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=40aeba3c68446f98649f5bf962faf5f0&auto=format&fit=crop&w=1480&q=80) /*url('../images/ht1.jpg')*/;
     background-size: cover;
     background-position: center;
-    background-attachment: fixed;   
+    background-attachment: fixed;
 }
 
     #home-page h1 {
@@ -62,10 +63,7 @@
     }
 }
 
-@media screen and (max-width: 768px) {
-    .ht_titles {
-        font-size: 300%;
-    }
+@media screen and (max-width: 768px) {    
 
     #home-page {
         height: 70vh;

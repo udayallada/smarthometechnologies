@@ -9,17 +9,17 @@
     <link href="css/brandingpartners.css" rel="stylesheet" />
 </asp:Content>
 <asp:Content ID="Content3" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
-   
+   <div>
         <section id="home-page" class="d-flex flex-column justify-content-center shadow">
             <div class="row">
-                <h1 class="display-1 ht_titles">Home<br /> Theatre</h1>
+                <h1 class="display-1">Home<br /> Theatre</h1>
             </div>
             <div class="row d-flex flex-column" id="subtitle">
                 <h4 class="display-5"><strong>I think there is no world without theatre!</strong></h4>
                 <h4 class="display-5">- <i>Edward Bond</i></h4>
             </div>            
         </section>
-   
+   </div>
 
 
      <%-- branding partners --%>
