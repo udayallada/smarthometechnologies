@@ -149,6 +149,7 @@
     <Content Include="images\doorlock.png" />
     <Content Include="images\gatemotor.jpeg" />
     <Content Include="images\google.png" />
+    <Content Include="images\homebanner.jpeg" />
     <Content Include="images\ht1.jpg" />
     <Content Include="images\icon.png" />
     <Content Include="images\logo_sht.png" />

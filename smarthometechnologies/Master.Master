@@ -42,20 +42,20 @@
                                             <a class="nav-link" href="default">Home</a>
                                         </li>
                                         <li class="nav-item pl-4 pl-md-0 ml-0 ml-md-4">
-                                            <a class="nav-link" href="hometheatre" target="_blank">Home Theatre</a>
+                                            <a class="nav-link" href="hometheatre" ">Home Theatre</a>
                                         </li>
                                         <li class="nav-item pl-4 pl-md-0 ml-0 ml-md-4">
-                                            <a class="nav-link" href="homeautomation" target="_blank">Home Automation</a>
+                                            <a class="nav-link" href="homeautomation" ">Home Automation</a>
                                         </li>
                                         <%--<li class="nav-item pl-4 pl-md-0 ml-0 ml-md-4">
                                             <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">Home Automation</a>
                                             <div class="dropdown-menu">
-                                                <a class="dropdown-item" href="HomeTheatre.aspx" target="_blank">Home Theatre</a>
-                                                <a class="dropdown-item" href="HomeAutomation.aspx" target="_blank">Home Automation</a>
+                                                <a class="dropdown-item" href="HomeTheatre.aspx" ">Home Theatre</a>
+                                                <a class="dropdown-item" href="HomeAutomation.aspx" ">Home Automation</a>
                                             </div>
                                         </li>--%>
                                         <li class="nav-item pl-4 pl-md-0 ml-0 ml-md-4">
-                                            <a class="nav-link" href="aboutus" target="_blank">About Us</a>
+                                            <a class="nav-link" href="aboutus" ">About Us</a>
                                         </li>
                                     </ul>
                                 </div>
@@ -108,7 +108,7 @@
                     </div>
                     <div class="col-md-2 text-sm-left text-md-left pl-sm-0">
                         <h5 class="mb-1 mt-2 mt-lg-0" style="color: darkblue">Services</h5>
-                        <p class="m-0 p-0"><a href="hometheatre" target="_blank" class="text-decoration-none footer_fontstyle">Home Theatre</a></p>
+                        <p class="m-0 p-0"><a href="hometheatre" " class="text-decoration-none footer_fontstyle">Home Theatre</a></p>
                         <p class="m-0 p-0"><a href="homeautomation" class="text-decoration-none footer_fontstyle">Home Automation</a></p>
                     </div>
                     <div class="col-md-6 col-sm-12 text-md-right text-sm-left border">
@@ -126,12 +126,12 @@
                             </div>
                             <p class="mb-0 mt-0 pt-0 footer_fontstyle">Copyright © 2024 smarthometechnologies.india@gmail.com</p>
                             <ul class="social__media">
-                                <li><a href="https://www.facebook.com/SmartHomeTechee/" target="_blank"><i class="fab fa-facebook-f" style="padding-top: 10px;" aria-hidden="true"></i></a></li>
+                                <li><a href="https://www.facebook.com/SmartHomeTechee/" "><i class="fab fa-facebook-f" style="padding-top: 10px;" aria-hidden="true"></i></a></li>
                                 <li><a href="#"><i class="fab fa-twitter" style="padding-top: 10px;" aria-hidden="true"></i></a></li>
-                                <li><a href="https://www.linkedin.com/company/smart-home-technologies/" target="_blank"><i class="fab fa-linkedin-in" style="padding-top: 10px;" aria-hidden="true"></i></a></li>
+                                <li><a href="https://www.linkedin.com/company/smart-home-technologies/" "><i class="fab fa-linkedin-in" style="padding-top: 10px;" aria-hidden="true"></i></a></li>
                                 
                                 <li><a href="#"><i class="fab fa-youtube" style="padding-top: 10px;" aria-hidden="true"></i></a></li>
-                                <li><a href="https://www.instagram.com/smart_hometechnologies/#" target="_blank"><i class="fab fa-instagram" style="padding-top: 10px;" aria-hidden="true"></i></a></li>
+                                <li><a href="https://www.instagram.com/smart_hometechnologies/#" "><i class="fab fa-instagram" style="padding-top: 10px;" aria-hidden="true"></i></a></li>
                             </ul>
                         </div>
                     </div>

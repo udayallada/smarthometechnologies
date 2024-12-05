@@ -15,9 +15,10 @@
                 <h1 class="display-1">Home<br /> Theatre</h1>
             </div>
             <div class="row d-flex flex-column" id="subtitle">
-                <h4 class="display-5"><strong>I think there is no world without theatre!</strong></h4>
-                <h4 class="display-5">- <i>Edward Bond</i></h4>
-            </div>            
+                <h4 class="display-5">I think there is no world without theatre!</h4>
+                <h5 class="display-5">- <i>Edward Bond</i></h5>
+            </div>   
+            
         </section>
    </div>
 

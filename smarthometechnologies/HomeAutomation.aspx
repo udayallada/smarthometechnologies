@@ -38,7 +38,7 @@
                     <div class="card-content">
                         <h3>Smart Locks</h3>
                         <p>Enhance your home’s security and convenience with our smart locks. Say goodbye to traditional keys and enjoy features like keyless entry, remote locking and unlocking, and access sharing. With advanced security protocols and seamless integration into your smart home system, our digital locks ensure safety and peace of mind for you and your family.</p>
-                        <p><a href="homeautomation" target="_blank" class="btn btn--with-icon mt-3"><i class="btn-icon fas fa-long-arrow-alt-right"></i>READ MORE</a></p>
+                        <p><a href="homeautomation" " class="btn btn--with-icon mt-3"><i class="btn-icon fas fa-long-arrow-alt-right"></i>READ MORE</a></p>
                     </div>
                 </div>
                 <div class="col-md-6 p-0">
@@ -76,7 +76,7 @@
                     <div class="card-content">
                         <h3>Curtains</h3>
                         <p>Effortlessly control your curtains with a remote, smartphone, or voice command to create the perfect ambiance. Designed for style and functionality, our automated curtain systems bring a touch of sophistication to your living spaces.</p>
-                        <p ><a href="homeautomation" target="_blank" class="btn btn--with-icon mt-3"><i class="btn-icon fas fa-long-arrow-alt-right"></i>READ MORE</a></p>
+                        <p ><a href="homeautomation" " class="btn btn--with-icon mt-3"><i class="btn-icon fas fa-long-arrow-alt-right"></i>READ MORE</a></p>
                     </div>
                 </div>
                 <div class="col-md-7 p-0">
@@ -113,7 +113,7 @@
                     <div class="card-content">
                         <h3>Security Alarm System</h3>
                         <p>Protect your home and loved ones with our state-of-the-art security alarm systems. Designed to detect intrusions and unusual activity, our systems offer real-time alerts, remote monitoring, and seamless integration with other smart devices. Stay secure and in control, whether you're at home or away.</p>
-                        <p><a href="homeautomation" target="_blank" class="btn btn--with-icon mt-2"><i class="btn-icon fas fa-long-arrow-alt-right"></i>READ MORE</a></p>
+                        <p><a href="homeautomation" " class="btn btn--with-icon mt-2"><i class="btn-icon fas fa-long-arrow-alt-right"></i>READ MORE</a></p>
                     </div>
                 </div>
                 <div class="col-md-7 p-0">
@@ -151,7 +151,7 @@
                     <div class="card-content">
                         <h3 >Smart Roofs</h3>
                         <p>Revolutionize your living spaces with our smart roofs, designed to offer both functionality and comfort. Control natural light, ventilation, and temperature effortlessly through automation, adapting your roof to the weather or your preferences. Enhance energy efficiency, enjoy a dynamic living environment, and experience the future of smart home solutions with our innovative smart roof systems.</p>
-                        <p><a href="homeautomation" target="_blank" class="btn btn--with-icon mt-2"><i class="btn-icon fas fa-long-arrow-alt-right"></i>READ MORE</a></p>
+                        <p><a href="homeautomation" " class="btn btn--with-icon mt-2"><i class="btn-icon fas fa-long-arrow-alt-right"></i>READ MORE</a></p>
                     </div>
                 </div>
                 <div class="col-md-7 p-0">

@@ -1,9 +1,10 @@
 ﻿
 #home-page {
-    height: 100vh /*80vh*/;
+    height: 120vh;
     padding-right: 20px;
+    /*margin-top:100px;*/
     color: white;
-    background-image: url(https://images.unsplash.com/photo-1485846234645-a62644f84728?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=40aeba3c68446f98649f5bf962faf5f0&auto=format&fit=crop&w=1480&q=80) /*url('../images/ht1.jpg')*/;
+    background-image: /*url(https://images.unsplash.com/photo-1485846234645-a62644f84728?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=40aeba3c68446f98649f5bf962faf5f0&auto=format&fit=crop&w=1480&q=80)*/ linear-gradient(rgba(64, 68, 77, 0.70), rgb(64, 68, 77, 0.70)), url('../images/homebanner.jpeg');
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
