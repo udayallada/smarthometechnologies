@@ -6,22 +6,26 @@
 <asp:Content ID="Content2" ContentPlaceHolderID="head" runat="server">
     <link href="css/ht-banner.css" rel="stylesheet" />    
     <link href="https://fonts.googleapis.com/css?family=Cutive+Mono|Lato|Monoton" rel="stylesheet" />        
-    <link href="css/brandingpartners.css" rel="stylesheet" />
+    <link href="css/brandingpartners.css" rel="stylesheet" />	
 </asp:Content>
 <asp:Content ID="Content3" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
-   <div>
-        <section id="home-page" class="d-flex flex-column justify-content-center shadow">
+   
+    <section id="home-page" class="d-flex flex-column justify-content-center">
+        <div class="container">
             <div class="row">
-                <h1 class="display-1">Home<br /> Theatre</h1>
+                <div class="col-12">
+                    <h1 class="display-4 pt-5">Home<br />
+                        Theatre</h1>
+                </div>
             </div>
-            <div class="row d-flex flex-column" id="subtitle">
-                <h4 class="display-5">I think there is no world without theatre!</h4>
-                <h5 class="display-5">- <i>Edward Bond</i></h5>
-            </div>   
-            
-        </section>
-   </div>
-
+            <div class="row d-flex flex-column justify-content-center" id="subtitle">
+                <div class="col-12">
+                    <h4 class="pl-3">I think there is no world without theatre!</h4>
+                    <h5 class="pl-3">- <i>Edward Bond</i></h5>
+                </div>
+            </div>
+        </div>
+    </section>
 
      <%-- branding partners --%>
  <section class="section section-default mt-none mb-none">

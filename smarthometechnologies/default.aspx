@@ -14,7 +14,7 @@
      <div class="overlay">
          <div class="container <%--cont-banner--%>">
              <%--<span class="pre-header near-header">Welcome to</span>--%>
-             <h1 class=" mb-0 mt-5"><span style="color: darkblue">Smart Home</span> Technologies</h1>
+             <h1 class=" mb-0 mt-5"><span style="color: #01008a">Smart Home</span> Technologies</h1>
              <span class="post-header near-header">Make your home a better place</span>
              <div class="mt-md-5"><a href="tel:+91 9502907797" class="banner-contact p-3 text-decoration-none border">Contact Us</a></div>
          </div>
@@ -22,17 +22,17 @@
  </header>
 
  <%-- home auatomation --%>
- <div id="smartswitches" class="indexsub2-main">
-     <h1 class="mainlock_h1">Home Automation</h1>
-     <div class="bg-light p-5">
+ <%--<div id="smartswitches" class="indexsub2-main">--%>
+     <h1 class="mainlock_h1 pt-4">Home Automation</h1>
+     <div class="container bg-light">
          <div class="row">
-             <div class="col-md-6 col-sm-12">
+             <div class="col-md-7 col-sm-12">
                  <img src="images/ss_ind_banner.jpg" class="indss_banner" />
              </div>
-             <div class="col-md-6 col-sm-12">
+             <div class="col-md-5 col-sm-12">
                  <div class="font-description justify-content-center">
                      <p>Transform the way you control your home’s lighting with our cutting-edge smart switches. Designed for modern living, these switches allow you to manage your lights remotely using a smartphone app or voice commands. Whether you're at home or on the go, you can turn lights on or off, adjust brightness levels, or set schedules to match your routine. Our smart switches are compatible with leading smart home systems, offering seamless integration for a truly connected experience.</p>
-                     <p>Stylishly designed to complement any interior, our smart switches are the perfect blend of functionality, efficiency, and sophistication. Upgrade to smarter lighting control today!
+                     <p>Our smart switches are the perfect blend of functionality, efficiency, and sophistication. Upgrade to smarter lighting control today!
                      </p>
                      <div class="text-left ml-2">
                          <a href="homeautomation" " class="btn btn--with-icon"><i class="btn-icon fas fa-long-arrow-alt-right"></i>READ MORE</a>
@@ -41,7 +41,7 @@
              </div>
          </div>
      </div>
- </div>
+<%-- </div>--%>
 
 
  <%-- Home Theatre --%>

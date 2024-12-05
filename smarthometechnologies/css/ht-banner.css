@@ -1,10 +1,10 @@
 ﻿
 #home-page {
-    height: 120vh;
-    padding-right: 20px;
-    /*margin-top:100px;*/
+    height: 100vh;
+    /*padding-right: 20px;*/
+    /*margin-top:70px;*/
     color: white;
-    background-image: /*url(https://images.unsplash.com/photo-1485846234645-a62644f84728?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=40aeba3c68446f98649f5bf962faf5f0&auto=format&fit=crop&w=1480&q=80)*/ linear-gradient(rgba(64, 68, 77, 0.70), rgb(64, 68, 77, 0.70)), url('../images/homebanner.jpeg');
+    background-image: /*url(https://images.unsplash.com/photo-1485846234645-a62644f84728?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=40aeba3c68446f98649f5bf962faf5f0&auto=format&fit=crop&w=1480&q=80)*/ linear-gradient(rgba(64, 68, 77, 0.5), rgb(64, 68, 77, 0.5)), url('../images/homebanner.jpeg');
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
@@ -12,19 +12,22 @@
 
     #home-page h1 {
         font-family: 'Monoton', cursive;
+        font-size:100px
     }
 
-    #home-page .row {
-        margin-left: 5%;
-    }
+        #home-page h4,h5{
+            font-size:18px
+        }
 
-    #home-page h1 {
-        animation-name: title-entrance;
-        animation-duration: 3s;
-        animation-timing-function: ease-out;
-        animation-iteration-count: 1;
-        animation-delay: 0s;
-    }
+
+
+        #home-page h1 {
+            animation-name: title-entrance;
+            animation-duration: 3s;
+            animation-timing-function: ease-out;
+            animation-iteration-count: 1;
+            animation-delay: 0s;
+        }
 
 @keyframes title-entrance {
     0% {
@@ -69,4 +72,7 @@
     #home-page {
         height: 70vh;
     }
+        #home-page h1 {
+            font-size:50px
+        }
 }

@@ -10,12 +10,12 @@
     color: #fff;
     text-align: center;
     background-size: cover;
-    background-image: /*url(https://images.unsplash.com/photo-1485846234645-a62644f84728?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=40aeba3c68446f98649f5bf962faf5f0&auto=format&fit=crop&w=1480&q=80)*/ url('../images/smart-home.jpg');
+    background-image: /*url(https://images.unsplash.com/photo-1485846234645-a62644f84728?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=40aeba3c68446f98649f5bf962faf5f0&auto=format&fit=crop&w=1480&q=80)*/ url('../images/home_header.jpg');
 }
 
 
     header .overlay {
-        background-color: rgba(47, 48, 48, 0.5);
+        background-color: rgba(47, 48, 48, 0.6);
         width: 100%;
         height: 100%;
     }
@@ -34,22 +34,22 @@
         font-size: 12px;
     }
 }
-
+/*
 header .container .near-header:before, header .container .near-header:after {
     content: "";
     display: inline-block;
-}
+}*/
 
 header .container .pre-header {
     margin-bottom: 30px;
 }
 
-    header .container .pre-header:before, header .container .pre-header:after {
+/*    header .container .pre-header:before, header .container .pre-header:after {
         width: 8px;
         height: 8px;
         border-radius: 50%;
         background-color: whitesmoke;
-    }
+    }*/
 
   /*  header .container .pre-header:before {
         margin-right: 15px;
@@ -60,8 +60,7 @@ header .container .pre-header {
     }*/
 
 header .container h1 {
-    font-size: 55px;
-    /*text-transform: uppercase;*/
+    font-size: 75px;    
     font-weight: 700;
     margin-bottom: 30px;
     color:black
@@ -96,8 +95,7 @@ header .container .post-header {
 
 header .container .banner-contact {
     width: 250px;
-    height: 50px;
-    
+    height: 50px;    
     border: 1px solid whitesmoke;
     color: #fff;
     background: transparent;

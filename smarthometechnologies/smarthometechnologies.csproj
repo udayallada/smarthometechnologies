@@ -87,12 +87,9 @@
     <Content Include="css\ht-banner.css" />
     <Content Include="css\aboutus.css" />
     <Content Include="css\homeautomation.css" />
-    <Content Include="css\curtains.css" />
     <Content Include="css\brandingpartners.css" />
-    <Content Include="css\videodoorphone.css" />
     <Content Include="css\hometheatre.css" />
     <Content Include="css\master.css" />
-    <Content Include="css\navbar_style.css" />
     <Content Include="homeautomation.aspx" />
     <Content Include="HT_Brands\adeptaudio.png" />
     <Content Include="HT_Brands\artsound.png" />
@@ -150,6 +147,7 @@
     <Content Include="images\gatemotor.jpeg" />
     <Content Include="images\google.png" />
     <Content Include="images\homebanner.jpeg" />
+    <Content Include="images\home_header.jpg" />
     <Content Include="images\ht1.jpg" />
     <Content Include="images\icon.png" />
     <Content Include="images\logo_sht.png" />
