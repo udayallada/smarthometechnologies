@@ -147,6 +147,7 @@
     <Content Include="images\gatemotor.jpeg" />
     <Content Include="images\google.png" />
     <Content Include="images\homebanner.jpeg" />
+    <Content Include="images\homeheader1.png" />
     <Content Include="images\home_header.jpg" />
     <Content Include="images\ht1.jpg" />
     <Content Include="images\icon.png" />
