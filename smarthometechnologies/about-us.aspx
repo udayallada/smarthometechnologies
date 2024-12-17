@@ -1,8 +1,12 @@
-﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Master.Master" AutoEventWireup="true" CodeBehind="aboutus.aspx.cs" Inherits="smarthometechnologies.AboutUs" %>
+﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Master.Master" AutoEventWireup="true" CodeBehind="about-us.aspx.cs" Inherits="smarthometechnologies.AboutUs" %>
 <asp:Content ID="Content1" ContentPlaceHolderID="Title" runat="server">
     About Us
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="head" runat="server">
+    <title>About Us – Smart Home Technologies in Hyderabad, India</title>
+    <meta name="description" content="Learn about Smart Home Technologies, Hyderabad’s trusted experts in home automation and theatre solutions. Discover our mission, vision, and commitment to innovation." />
+    <link rel="canonical" href=" https://smarthometechnologies.co.in/about-us" />
+    <meta name="robots" content="index, follow" />
     <link href="css/aboutus.css" rel="stylesheet" />    
 </asp:Content>
 <asp:Content ID="Content3" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
@@ -26,6 +30,29 @@
 
                                 <li class="lead"><span style="color: darkblue; font-weight: 400">Enhance  </span><span style="color: black; font-weight: 400">Customer Experience</span>
                                     : Offer comprehensive support and services to ensure smooth installation and operation of our products, making smart living accessible and hassle-free.
+                                </li>
+                            </ol>
+
+                            <p class="lead">
+                                Why Smart Home Technologies?
+
+                                We are more than just a service provider, we are your partners in creating the perfect smart living environment.
+
+                                Here's why customers choose us:
+                            </p>
+                            <ol>
+                                <li class="lead"><span style="color: darkblue; font-weight: 400">Expertise</span>: Over 5+ years of experience in the industry.</li>
+
+                                <li class="lead"><span style="color: darkblue; font-weight: 400">Customization </span>
+                                    : Tailored solutions for every home and business.
+                                </li>
+
+                                <li class="lead"><span style="color: darkblue; font-weight: 400">Innovation</span>
+                                    : Using the latest technology to provide future-ready homes.
+                                </li>
+                                <li class="lead"><span style="color: darkblue; font-weight: 400">Customer </span><span style="color: black; font-weight: 400">Support</span>: Dedicated customer service and maintenance packages.
+                                </li>
+                                <li class="lead"><span style="color: darkblue; font-weight: 400">Local </span><span style="color: black; font-weight: 400">Expertise</span>: Based in Hyderabad, we understand local needs and requirements.
                                 </li>
                             </ol>
                         </div>

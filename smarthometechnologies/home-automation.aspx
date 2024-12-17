@@ -1,9 +1,13 @@
-﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Master.Master" AutoEventWireup="true" CodeBehind="homeautomation.aspx.cs" Inherits="smarthometechnologies.HomeAutomation" %>
+﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Master.Master" AutoEventWireup="true" CodeBehind="home-automation.aspx.cs" Inherits="smarthometechnologies.HomeAutomation" %>
 
 <asp:Content ID="Content1" ContentPlaceHolderID="Title" runat="server">
     Home Automation
 </asp:Content>
-<asp:Content ID="Content2" ContentPlaceHolderID="head" runat="server">    
+<asp:Content ID="Content2" ContentPlaceHolderID="head" runat="server"> 
+    <title>Top Smart Home Automation Solutions in Hyderabad, India</title>
+    <meta name="description" content="Upgrade your home with smart automation in Hyderabad. Control lighting, security, and climate with ease. Personalized service for a smarter, energy-efficient home." />
+    <link rel="canonical" href="https://smarthometechnologies.co.in/home-automation-solutions" />
+    <meta name="robots" content="index, follow" />
     <link href="css/videodoorphone.css" rel="stylesheet" />    
     <link href="css/smartlock.css" rel="stylesheet" />
     <link href="css/brandingpartners.css" rel="stylesheet" />

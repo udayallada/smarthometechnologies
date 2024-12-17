@@ -1,15 +1,18 @@
-﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Master.Master" AutoEventWireup="true" CodeBehind="hometheatre.aspx.cs" Inherits="smarthometechnologies.WebForm2" %>
+﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Master.Master" AutoEventWireup="true" CodeBehind="home-theatre.aspx.cs" Inherits="smarthometechnologies.WebForm2" %>
 
 <asp:Content ID="Content1" ContentPlaceHolderID="Title" runat="server">
     home theatre
 </asp:Content>
-<asp:Content ID="Content2" ContentPlaceHolderID="head" runat="server">
+<asp:Content ID="Content2" ContentPlaceHolderID="head" runat="server">    
+    <title>Best Home Theatre Installation & Design in Hyderabad</title>
+    <meta name="description" content=" Experience cinematic luxury at home with custom home theatre design in Hyderabad. Expert acoustic tuning and seamless installation for ultimate entertainment." />
+    <link rel="canonical" href="https://smarthometechnologies.co.in/home-theatre-solutions" />
+    <meta name="robots" content="index, follow" />
     <link href="css/ht-banner.css" rel="stylesheet" />    
     <link href="https://fonts.googleapis.com/css?family=Cutive+Mono|Lato|Monoton" rel="stylesheet" />        
     <link href="css/brandingpartners.css" rel="stylesheet" />	
 </asp:Content>
-<asp:Content ID="Content3" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
-   
+<asp:Content ID="Content3" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">   
     <section id="home-page" class="d-flex flex-column justify-content-center">
         <div class="container">
             <div class="row">
@@ -30,7 +33,7 @@
      <%-- branding partners --%>
  <section class="section section-default mt-none mb-none">
      <div class="container">
-         <h1 class="mainlock_h1 pb-4">Branding Partners</h1>
+         <h2 class="mainlock_h1 pb-4">Branding Partners</h2>
          <div class="row">             
              <div class="col-6 col-md-3 col-lg-2">
                  <div class="square-holder">
