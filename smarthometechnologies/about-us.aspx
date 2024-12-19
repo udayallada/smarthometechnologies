@@ -32,11 +32,10 @@
                                     : Offer comprehensive support and services to ensure smooth installation and operation of our products, making smart living accessible and hassle-free.
                                 </li>
                             </ol>
-
                             <p class="lead">
-                                Why Smart Home Technologies?
+                                Why Smart Home Technologies?<br />
 
-                                We are more than just a service provider, we are your partners in creating the perfect smart living environment.
+                                We are more than just a service provider, we are your partners in creating the perfect smart living environment.<br />
 
                                 Here's why customers choose us:
                             </p>

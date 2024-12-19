@@ -76,6 +76,7 @@
     <Content Include="brands\hik.png" />
     <Content Include="brands\ONETOUCH.png" />
     <Content Include="brands\tplink.png" />
+    <Content Include="css\StyleSheet1.css" />
     <Content Include="HT_Brands\definitive_technology.png" />
     <Content Include="HT_Brands\optoma.png" />
     <Content Include="brands\rti.png" />
@@ -131,6 +132,16 @@
     <Content Include="HT_Brands\ViewSonic-logo.png" />
     <Content Include="HT_Brands\xscace_logo.png" />
     <Content Include="HT_Brands\zerodb.png" />
+    <Content Include="icons\acoustic-panel.png" />
+    <Content Include="icons\change.png" />
+    <Content Include="icons\content.png" />
+    <Content Include="icons\home-cinema.png" />
+    <Content Include="icons\home-theater.png" />
+    <Content Include="icons\lighting.png" />
+    <Content Include="icons\movie-theater.png" />
+    <Content Include="icons\multimedia.png" />
+    <Content Include="icons\music.png" />
+    <Content Include="icons\projector.png" />
     <Content Include="images\ag.jpg" />
     <Content Include="images\alexa.png" />
     <Content Include="images\alexagoogle.jpg" />
