@@ -58,7 +58,7 @@
                     <span class="sub-left">Enjoy the theatrical experience! </span>
                     <div class="indht_break"></div>
                     <p class="mb-5" style="color: #e2e3e6;">Immerse yourself in the ultimate entertainment experience with our premium home theater solutions. Enjoy stunning visuals, crystal-clear sound, and seamless integration, turning any room into a cinematic masterpiece. Elevate your movie nights, gaming sessions, and music experiences like never before!</p>
-                    <div><a href="hometheatre" " class="btn btn--with-icon mt-3 pr-3 border"><i class="btn-icon fas fa-long-arrow-alt-right "></i>READ MORE</a></div>
+                    <div><a href="home-theatre" class="btn btn--with-icon mt-3 pr-3 border"><i class="btn-icon fas fa-long-arrow-alt-right "></i>READ MORE</a></div>
                 </div>
             </div>
         </div>

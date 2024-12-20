@@ -76,7 +76,7 @@
     <Content Include="brands\hik.png" />
     <Content Include="brands\ONETOUCH.png" />
     <Content Include="brands\tplink.png" />
-    <Content Include="css\StyleSheet1.css" />
+    <Content Include="css\ht_ha_solutions.css" />
     <Content Include="HT_Brands\definitive_technology.png" />
     <Content Include="HT_Brands\optoma.png" />
     <Content Include="brands\rti.png" />
@@ -142,6 +142,7 @@
     <Content Include="icons\multimedia.png" />
     <Content Include="icons\music.png" />
     <Content Include="icons\projector.png" />
+    <Content Include="images\ht_banner.jpg" />
     <Content Include="images\ag.jpg" />
     <Content Include="images\alexa.png" />
     <Content Include="images\alexagoogle.jpg" />

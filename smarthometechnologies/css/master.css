@@ -17,8 +17,8 @@ h1 {
 }
 
 .mainlock_h1 {
-    margin-top: 2rem;
-    margin-bottom: 2rem;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
     text-align: center;
     color: black;
     font-size: 32px;
