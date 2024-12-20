@@ -379,7 +379,12 @@
                  <div class="square-holder">
                      <img src="HT_Brands/optoma.png" />
                  </div>
-             </div>             
+             </div>
+             <div class="col-6 col-md-3 col-lg-2">
+                 <div class="square-holder">
+                     <img src="HT_Brands/definitive_technology.png" />
+                 </div>
+             </div>
          </div>
      </div>
  </section>
