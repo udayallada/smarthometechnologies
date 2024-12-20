@@ -77,6 +77,7 @@
     <Content Include="brands\ONETOUCH.png" />
     <Content Include="brands\tplink.png" />
     <Content Include="css\ht_ha_solutions.css" />
+    <Content Include="css\StyleSheet1.css" />
     <Content Include="HT_Brands\definitive_technology.png" />
     <Content Include="HT_Brands\optoma.png" />
     <Content Include="brands\rti.png" />
@@ -135,6 +136,16 @@
     <Content Include="icons\acoustic-panel.png" />
     <Content Include="icons\change.png" />
     <Content Include="icons\content.png" />
+    <Content Include="icons\home-automation\audio-video.png" />
+    <Content Include="icons\home-automation\cctv-camera.png" />
+    <Content Include="icons\home-automation\climate-control.png" />
+    <Content Include="icons\home-automation\home-appliances.png" />
+    <Content Include="icons\home-automation\integrated.png" />
+    <Content Include="icons\home-automation\irrigation.png" />
+    <Content Include="icons\home-automation\lighting.png" />
+    <Content Include="icons\home-automation\local-network.png" />
+    <Content Include="icons\home-automation\smart-blind.png" />
+    <Content Include="icons\home-automation\voice-assistant.png" />
     <Content Include="icons\home-cinema.png" />
     <Content Include="icons\home-theater.png" />
     <Content Include="icons\lighting.png" />
@@ -179,6 +190,7 @@
     <Content Include="images\vdp.png" />
     <Content Include="images\YMI_70.png" />
     <Content Include="js\WA.js" />
+    <Content Include="testform.aspx" />
     <Content Include="Web.config" />
     <Content Include="default.aspx" />
     <Content Include="home-theatre.aspx" />
@@ -219,6 +231,13 @@
     </Compile>
     <Compile Include="home-theatre.aspx.designer.cs">
       <DependentUpon>home-theatre.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="testform.aspx.cs">
+      <DependentUpon>testform.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="testform.aspx.designer.cs">
+      <DependentUpon>testform.aspx</DependentUpon>
     </Compile>
   </ItemGroup>
   <ItemGroup>

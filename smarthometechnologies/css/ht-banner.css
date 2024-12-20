@@ -70,8 +70,9 @@
 @media screen and (max-width: 768px) {
 
     #home-page {
-        height: 70vh;
-        background-position: right;
+        height:60vh;
+        /*background-position: right;*/
+        width:auto
     }
         #home-page h1 {
             font-size:50px
