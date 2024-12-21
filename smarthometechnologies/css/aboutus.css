@@ -2,9 +2,14 @@
 .abt-header {
     background-color: none /*#222222*/;
     height: auto;
-    margin-top: 100px
+    margin-top: 100px;
+    
 }
 
+.abt-img {
+    background-image: url('../images/rb_27071.png');
+    background-size: cover;
+}
 
 p.lead, li.lead {
     color: #333 /*#eae1d5*/;

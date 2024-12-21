@@ -20,8 +20,8 @@
          <div class="container <%--cont-banner--%>">
              <%--<span class="pre-header near-header">Welcome to</span>--%>
              <h1 class=" mb-0 mt-5"><span style="color: #01008a">Smart Home</span> Technologies</h1>
-             <span class="post-header near-header">Make your home a better place</span>
-             <div class="mt-md-5"><a href="tel:+91 9502907797" class="banner-contact p-3 text-decoration-none border">Contact Us</a></div>
+             <span class="post-header near-header text-light">Make your home a better place</span>
+             <div class="mt-md-5"><a href="tel:+91 9502907797" class="banner-contact p-3 text-decoration-none"><%--<i class="fa fa-solid fa-mobile"></i>--%> Contact Us</a></div>
          </div>
      </div>
  </header>

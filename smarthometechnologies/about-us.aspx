@@ -11,7 +11,7 @@
 </asp:Content>
 <asp:Content ID="Content3" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
     <div style="background: linear-gradient(to bottom, #EDF1F2, #D5E2F2);">
-        <div class="container">
+        <div class="container abt-img">
             <div class="row">
                 <div class="col-md-12">
                     <div class="abt-header">

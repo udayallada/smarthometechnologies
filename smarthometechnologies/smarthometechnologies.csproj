@@ -77,7 +77,6 @@
     <Content Include="brands\ONETOUCH.png" />
     <Content Include="brands\tplink.png" />
     <Content Include="css\ht_ha_solutions.css" />
-    <Content Include="css\StyleSheet1.css" />
     <Content Include="HT_Brands\definitive_technology.png" />
     <Content Include="HT_Brands\optoma.png" />
     <Content Include="brands\rti.png" />
@@ -153,6 +152,7 @@
     <Content Include="icons\multimedia.png" />
     <Content Include="icons\music.png" />
     <Content Include="icons\projector.png" />
+    <Content Include="images\home_banner.jpg" />
     <Content Include="images\ht_banner.jpg" />
     <Content Include="images\ag.jpg" />
     <Content Include="images\alexa.png" />
@@ -177,6 +177,7 @@
     <Content Include="images\logo_sht.png" />
     <Content Include="images\onrtouch_vdp.jpg" />
     <Content Include="images\OT500630.png" />
+    <Content Include="images\rb_27071.png" />
     <Content Include="images\securityalarmsys.jpg" />
     <Content Include="images\sensor.jpg" />
     <Content Include="images\sensor.png" />
@@ -190,7 +191,6 @@
     <Content Include="images\vdp.png" />
     <Content Include="images\YMI_70.png" />
     <Content Include="js\WA.js" />
-    <Content Include="testform.aspx" />
     <Content Include="Web.config" />
     <Content Include="default.aspx" />
     <Content Include="home-theatre.aspx" />
@@ -232,13 +232,6 @@
     <Compile Include="home-theatre.aspx.designer.cs">
       <DependentUpon>home-theatre.aspx</DependentUpon>
     </Compile>
-    <Compile Include="testform.aspx.cs">
-      <DependentUpon>testform.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="testform.aspx.designer.cs">
-      <DependentUpon>testform.aspx</DependentUpon>
-    </Compile>
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
@@ -250,6 +243,9 @@
     <None Include="Web.Release.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="icons\home-theatre\" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
