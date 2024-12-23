@@ -11,7 +11,7 @@ namespace smarthometechnologies
 {
 
 
-    public partial class AboutUs
+    public partial class WebForm4
     {
     }
 }

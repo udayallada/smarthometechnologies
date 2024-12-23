@@ -84,7 +84,7 @@
         <%-- Footer --%>
         <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
         </asp:ContentPlaceHolder>
-        <div id="WAButton"></div>
+        <%--<div id="WAButton"></div>--%>
         <section class="container-cont text-left">            
             <div class="container">
                 <div class="row justify-content-center">

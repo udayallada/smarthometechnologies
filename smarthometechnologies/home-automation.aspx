@@ -226,7 +226,7 @@
                  <div class="col-md-6 col-lg-4 col-sm-12">
                      <div class="single_service hvr-curl-top-right">
                          <div class="icon mb-4">
-                             <img src="icons/home-automation/climate-control.png" width="40" />
+                             <img src="icons/home-automation/climate-control.png" width="50" />
                              
                          </div>
                          <div class="single_service-body">
@@ -412,6 +412,11 @@
             <div class="col-6 col-md-3 col-lg-2">
                 <div class="square-holder">
                     <img src="brands/ajax.png" />
+                </div>
+            </div>
+            <div class="col-6 col-md-3 col-lg-2">
+                <div class="square-holder">
+                    <img src="brands/lutron.png" />
                 </div>
             </div>
         </div>

@@ -7,7 +7,6 @@
 <meta name="description" content="Top smart home automation & home theatre solutions in Hyderabad. Custom designs, expert installation, and reliable support for modern living." />
     <link rel="canonical" href="https://smarthometechnologies.co.in" />
     <meta name="robots" content="index, follow"  />
-
 <link href="css/headbanner.css" rel="stylesheet" />
 <link href="css/homeautomation.css" rel="stylesheet" />
 <link href="css/hometheatre.css" rel="stylesheet" />
@@ -40,7 +39,7 @@
                      <p>Our smart switches are the perfect blend of functionality, efficiency, and sophistication. Upgrade to smarter lighting control today!
                      </p>
                      <div class="text-left ml-2">
-                         <a href="homeautomation" " class="btn btn--with-icon"><i class="btn-icon fas fa-long-arrow-alt-right"></i>READ MORE</a>
+                         <a href="home-automation" " class="btn btn--with-icon"><i class="btn-icon fas fa-long-arrow-alt-right"></i>READ MORE</a>
                      </div>
                  </div>
              </div>
