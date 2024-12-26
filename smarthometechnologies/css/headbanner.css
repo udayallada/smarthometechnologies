@@ -12,6 +12,9 @@
     background-size: cover;
     /*background-image: url('../home_banner.jpg');*/
     background-image: url('../images/home_banner.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    /*background-size: cover;*/
 }
 
 

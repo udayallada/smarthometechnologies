@@ -65,21 +65,6 @@
                 </div>
             </div>
         </div>
-        <%--<script>
-            (function ($) {
-                "use strict";
-                //Menu On Hover
-                $('body').on('mouseenter mouseleave', '.nav-item', function (e) {
-                    if ($(window).width() > 750) {
-                        var _d = $(e.target).closest('.nav-item'); _d.addClass('show');
-                        setTimeout(function () {
-                            _d[_d.is(':hover') ? 'addClass' : 'removeClass']('show');
-                        }, 1000);
-                    }
-                });
-
-            })(jQuery);
-        </script>--%>
         
         <%-- Footer --%>
         <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">

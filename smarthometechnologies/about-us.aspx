@@ -39,7 +39,7 @@
                         <figure class="image-1"><a href="#" >
                             <img src="images/hand-touching-speakers-side-view.jpg" /><%--<img src="https://i.ibb.co/QP6Nmpf/image-1-about.jpg" alt="">--%></a></figure>
                         <figure class="image-2"><a href="#">
-                            <img src="images/close-up-hands-using-mouse.jpg" /><%--<img src="https://i.ibb.co/JvN0NVB/image-2-about.jpg" alt="">--%></a></figure>
+                            <img src="images/front-view-woman-relaxing-home.jpg" /><%--<img src="https://i.ibb.co/JvN0NVB/image-2-about.jpg" alt="">--%></a></figure>
                     </div>
                 </div>
             </div>
