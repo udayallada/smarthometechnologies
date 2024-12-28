@@ -89,7 +89,6 @@
     <Content Include="css\headbanner.css" />
     <Content Include="css\ht-banner.css" />
     <Content Include="css\aboutus.css" />
-    <Content Include="css\homeautomation.css" />
     <Content Include="css\brandingpartners.css" />
     <Content Include="css\hometheatre.css" />
     <Content Include="css\master.css" />
@@ -159,6 +158,7 @@
     <Content Include="images\close-up-hands-using-mouse.jpg" />
     <Content Include="images\front-view-woman-relaxing-home.jpg" />
     <Content Include="images\hand-touching-speakers-side-view.jpg" />
+    <Content Include="images\home_realistic_composition.jpg" />
     <Content Include="images\home_banner.jpg" />
     <Content Include="images\ht_banner.jpg" />
     <Content Include="images\ag.jpg" />
@@ -183,6 +183,7 @@
     <Content Include="images\securityalarmsys.jpg" />
     <Content Include="images\sensor.png" />
     <Content Include="images\sl_1.jpg" />
+    <Content Include="images\smart-home-using-control-panel.jpg" />
     <Content Include="images\SmartHome_Logo.png" />
     <Content Include="images\smartroofs.png" />
     <Content Include="images\ss1.png" />

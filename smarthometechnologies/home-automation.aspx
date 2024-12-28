@@ -18,21 +18,21 @@
     <%-- Smart Switches --%>
     <br /><br /><br />
     <div class="container mt-5 mb-5">
-    <div class="row">
-        <div class="col-md-6">
-            <div class="card-img">
-                <img src="images/ss_ind_banner.jpg" style="width: 100%" />
+        <div class="row">
+            <div class="col-md-6">
+                <div class="card-img">
+                    <img src="images/ss_ind_banner.jpg" style="width: 100%" />
+                </div>
             </div>
-        </div>
-        <div class="col-md-6">
-            <div class="card-content">
-                <h3>Smart Switches</h3>
-                <p>Control your home’s lighting with ease using our smart switches. Designed for convenience and efficiency, they allow you to manage lights remotely via your smartphone or voice commands. With features like scheduling, dimming, and energy monitoring, our smart switches bring comfort and control right to your fingertips.</p>
-                <a href="#" class="btn btn--with-icon mt-3"><i class="btn-icon fas fa-long-arrow-alt-right"></i>READ MORE</a>
+            <div class="col-md-6">
+                <div class="card-content">
+                    <h3>Smart Switches</h3>
+                    <p>Control your home’s lighting with ease using our smart switches. Designed for convenience and efficiency, they allow you to manage lights remotely via your smartphone or voice commands. With features like scheduling, dimming, and energy monitoring, our smart switches bring comfort and control right to your fingertips.</p>
+                    <a href="#" class="btn btn--with-icon mt-3"><i class="btn-icon fas fa-long-arrow-alt-right"></i>READ MORE</a>
+                </div>
             </div>
         </div>
     </div>
-</div>
 
     <%-- Smart Locks --%>
     <div <%--style="background: linear-gradient(to bottom, #EDF1F2, #D5E2F2);"--%>>

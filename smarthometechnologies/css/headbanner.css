@@ -1,8 +1,4 @@
 ﻿
-/*.cont-banner {
-    max-width: 960px;
-    margin: 0 auto;
-}*/
 
 .main-ban-head {
     width: 100%;
@@ -10,122 +6,79 @@
     color: whitesmoke;
     text-align: center;
     background-size: cover;
-    /*background-image: url('../home_banner.jpg');*/
     background-image: url('../images/home_banner.jpg');
     background-repeat: no-repeat;
     background-position: center;
-    /*background-size: cover;*/
 }
 
 
-    header .overlay {
-        background-color: rgba(47, 48, 48, 0.1);
-        width: 100%;
-        height: 100%;
-    }
-
-    header .container {
-        padding-top: 120px;
-    }
-
-        header .container .near-header {
-            display: block;
-            font-size: 16px;
-        }
-
-@media (max-width: 799px) {
-    header .container .near-header {
-        font-size: 12px;
-    }
-}
-/*
-header .container .near-header:before, header .container .near-header:after {
-    content: "";
-    display: inline-block;
-}*/
-
-header .container .pre-header {
-    margin-bottom: 30px;
+header .overlay {
+    background-color: rgba(47, 48, 48, 0.1);
+    width: 100%;
+    height: 100%;
 }
 
-/*    header .container .pre-header:before, header .container .pre-header:after {
-        width: 8px;
-        height: 8px;
-        border-radius: 50%;
-        background-color: whitesmoke;
-    }*/
-
-  /*  header .container .pre-header:before {
-        margin-right: 15px;
-    }
-
-    header .container .pre-header:after {
-        margin-left: 15px;
-    }*/
-
-header .container h1 {
-    font-size: 75px;    
-    font-weight: 700;
-    margin-bottom: 30px;
-    color:whitesmoke
+header .container {
+    padding-top: 120px;
 }
 
-@media (max-width: 799px) {
+
+
     header .container h1 {
-        font-size: 35px;
-    }
-}
-
-header .container .post-header {
-    margin-bottom: 70px;
-}
-
-    /*header .container .post-header:before, header .container .post-header:after {
-        width: 10.416666%;
-        height: 4px;
-        border: 1px solid whitesmoke;
-        border-left: none;
-        border-right: none;
-        vertical-align: middle;
-    }*/
-
-    /*header .container .post-header:before {
-        margin-right:0px*/ /*2.08333%*//*;
+        font-size: 75px;
+        font-weight: 700;
+        margin-bottom: 30px;
+        color: whitesmoke
     }
 
-    header .container .post-header:after {
-        margin-left: 2.08333%;
-    }*/
+    header .container h3 {
+        font-size: 25px;
+        font-weight: 700;
+        margin-bottom: 30px;
+        color: whitesmoke
+    }
 
-header .container .banner-contact {
-    width: 300px;
-    height: 50px;    
-    border: 2px solid white;
-    color: whitesmoke;
-    background: /*whitesmoke*/ transparent;
-    font-size: 15px;
-    text-transform: uppercase;
-    outline: none;
-    cursor: pointer;
-    font-weight:500
-}
+    header .container h5 {
+        font-size: 15px;
+    }
+
+    header .container .banner-contact {
+        width: 300px;
+        height: 50px;
+        border: 2px solid white;
+        color: whitesmoke;
+        background: transparent;
+        font-size: 15px;
+        text-transform: uppercase;
+        outline: none;
+        cursor: pointer;
+        font-weight: 500;
+    }
+
+        header .container .banner-contact:hover {
+            background-color: #fff;
+            color: #2f3030;
+        }
 
 @media (max-width: 799px) {
     header .container .banner-contact {
         font-size: 13px;
     }
-    .main-ban-head{
-        height:70vh
+
+    .main-ban-head {
+        height: 70vh
+    }
+
+    header .container h1 {
+        font-size: 35px;
+    }
+
+    header .container h5 {
+        font-size: 12px;
+    }
+
+    header .container h3 {
+        font-size: 15px;
+        margin-top: 30px
     }
 }
-
-header .container .banner-contact:hover {
-    background-color: #fff;
-    color: #2f3030;
-    border:2px solid darkblue;
-}
-
-
-
-
-

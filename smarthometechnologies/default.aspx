@@ -4,52 +4,49 @@
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="head" runat="server">
     <title>Best Smart Home Automation & Theatre Experts in Hyderabad</title>
-<meta name="description" content="Top smart home automation & home theatre solutions in Hyderabad. Custom designs, expert installation, and reliable support for modern living." />
+    <meta name="description" content="Top smart home automation & home theatre solutions in Hyderabad. Custom designs, expert installation, and reliable support for modern living." />
     <link rel="canonical" href="https://smarthometechnologies.co.in" />
-    <meta name="robots" content="index, follow"  />
-<link href="css/headbanner.css" rel="stylesheet" />
-<link href="css/homeautomation.css" rel="stylesheet" />
-<link href="css/hometheatre.css" rel="stylesheet" />
-<link href="css/brandingpartners.css" rel="stylesheet" />
+    <meta name="robots" content="index, follow" />
+    <link href="css/headbanner.css" rel="stylesheet" />
+    <link href="css/ht_ha_solutions.css" rel="stylesheet" />
+    <link href="css/hometheatre.css" rel="stylesheet" />
+    <link href="css/brandingpartners.css" rel="stylesheet" />
 </asp:Content>
 <asp:Content ID="Content3" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
      <%-- header banner --%>
  <header class="main-ban-head">
      <div class="overlay">
-         <div class="container <%--cont-banner--%>">
-             <%--<span class="pre-header near-header">Welcome to</span>--%>
-             <h1 class=" mb-0 mt-5"><span style="color: #01008a">Smart Home</span> Technologies</h1>
-             <span class="post-header near-header text-light">Make your home a better place</span>
-             <div class="mt-md-5"><a href="tel:+91 9502907797" class="banner-contact p-3 text-decoration-none"><%--<i class="fa fa-solid fa-mobile"></i>--%> Contact Us</a></div>
+         <div class="container ">
+             <h3 class="text-light mt-md-5">Hello! Welcome to</h3>
+             <h1 class="mb-0 mt-4"><span style="color: #01008a">Smart Home</span> Technologies</h1>
+             <h5  class="text-light text-md-right text-sm-center p-md-4 font-italic font-weight-light">Make your home a better place</h5>
+             <div class="mt-5"><a href="tel:+91 9502907797" class="banner-contact p-3 text-decoration-none"> Contact Us</a></div>
          </div>
      </div>
  </header>
 
  <%-- home auatomation --%>
- <%--<div id="smartswitches" class="indexsub2-main">--%>
-     <h2 class="mainlock_h1 pt-4">Home Automation</h2>
-     <div class="container bg-light">
-         <div class="row">
-             <div class="col-md-7 col-sm-12">
-                 <img src="images/ss_ind_banner.jpg" class="indss_banner" />
-             </div>
-             <div class="col-md-5 col-sm-12">
-                 <div class="font-description justify-content-center">
-                     <p>Transform the way you control your home’s lighting with our cutting-edge smart switches. Designed for modern living, these switches allow you to manage your lights remotely using a smartphone app or voice commands. Whether you're at home or on the go, you can turn lights on or off, adjust brightness levels, or set schedules to match your routine. Our smart switches are compatible with leading smart home systems, offering seamless integration for a truly connected experience.</p>
-                     <p>Our smart switches are the perfect blend of functionality, efficiency, and sophistication. Upgrade to smarter lighting control today!
-                     </p>
-                     <div class="text-left ml-2">
-                         <a href="home-automation" " class="btn btn--with-icon"><i class="btn-icon fas fa-long-arrow-alt-right"></i>READ MORE</a>
-                     </div>
-                 </div>
-             </div>
-         </div>
-     </div>
-<%-- </div>--%>
+ 
+    <div class="container mt-5 mb-5">
+        <div class="row pt-md-5">
+            <div class="col-md-7 order-sm-2 order-md-1">
+                <div class="card-img">
+                    <img src="images/smart-home-using-control-panel.jpg" style="width: 100%" />
+                </div>
+            </div>
+            <div class="col-md-5 order-sm-1 order-md-2">
+                <div class="card-content">
+                    <h3 class="pb-3 pt-3">Home Automation</h3>
+                    <p>Transform the way you control your home’s lighting with our cutting-edge smart switches. Designed for modern living, these switches allow you to manage your lights remotely using a smartphone app or voice commands. Whether you're at home or on the go, you can turn lights on or off, adjust brightness levels, or set schedules to match your routine. Our smart switches are the perfect blend of functionality, efficiency, and sophistication. Upgrade to smarter lighting control today!</p>
+                    <a href="home-automation" class="btn btn--with-icon mt-3"><i class="btn-icon fas fa-long-arrow-alt-right"></i>READ MORE</a>
+                </div>
+            </div>
+        </div>
+    </div>
 
 
  <%-- Home Theatre --%>
-    <div class="container-fluid">
+    <div class="container">
         <div class="indht-bg">
             <div class="row">
                 <div class="col-md-6 col-12">
@@ -68,7 +65,7 @@
     <%-- branding partners --%>
     <section class="container section section-default">
        <%-- <div class="container-fluid">--%>
-            <h2 class="mainlock_h1 pb-4">Branding Partners</h2>
+            <h2 class="mainlock_h1 pb-4 mt-5">Branding Partners</h2>
             <div class="row">
                 <div class="col-6 col-md-3 col-lg-2">
                     <div class="square-holder">
